@@ -21,24 +21,6 @@ product.getProd = () => {
     })
 }
 
-product.searchProd = (name) => {
-    return new Promise((resolve, reject) => {
-        db.query(`SELECT id_product, name_product, price_product, name_category, image_product FROM public.product
-            INNER JOIN public.categories ON (public.product.id_category = public.categories.id)
-            WHERE name_product LIKE '%${name}%'`)
-            .then((res) => {
-                if (res.rows.length == 0) {
-                    resolve("Data not found")
-                }
-                else {
-                    resolve(res.rows)
-                }
-            }).catch((err) => {
-                reject(err)
-            });
-    })
-}
-
 product.orderedAllProd = (name = '', price = 0, category = '', orderBy = 'name_product', order = 'DESC') => {
     return new Promise((resolve, reject) => {
         if (price == 0) {

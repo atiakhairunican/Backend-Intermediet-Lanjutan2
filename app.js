@@ -8,11 +8,24 @@ const morgan = require("morgan")
 const bodyPars = require("body-parser")
 const db = require("./src/Configs/db")
 const router = require("./src/main")
+const cors = require("cors")
+const redis = require("./src/Configs/redis")
+const fs = require("fs")
 
 server.use(bodyPars.urlencoded({extended: false}))
 server.use(bodyPars.json())
 server.use(morgan("dev"))
+server.use(cors())
+server.use("/public", express.static("public"))
 server.use(router)
+
+redis.redisCheck()
+    .then((res) => {
+        console.log(res)
+    })
+    .catch((err) => {
+        console.log(err)
+    })
 
 db.connect()
     .then((res) => {
