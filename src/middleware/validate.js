@@ -2,6 +2,7 @@
 /* eslint-disable no-undef */
 const respon = require("../Helpers/respon")
 const jwt = require("jsonwebtoken")
+const loggers = require("../Configs/wins")
 
 const checkToken = (role) => {
     return function(req, res, next) {
@@ -9,11 +10,13 @@ const checkToken = (role) => {
         let isAccess = false
 
         if (!authtoken) {
+            loggers.info("Invalid token: login first")
             return respon(res, 401, {message: "Please login"})
         }
 
         jwt.verify(authtoken, process.env.JWT_KEYS, (err, decode) => {
             if (err) {
+                loggers.warn("Check token failed", err)
                 return respon(res, 401, err)
             }
             role.map(value => {
@@ -26,7 +29,8 @@ const checkToken = (role) => {
                 next()
             }
             else {
-                respon(res, 401, {message: "You are not permitted"})
+                loggers.info("Token not permitted")
+                return respon(res, 401, {message: "You are not permitted"})
             }
         })
     }

@@ -1,6 +1,7 @@
 /* eslint-disable no-useless-catch */
 /* eslint-disable no-undef */
 const bcr = require("bcrypt")
+const loggers = require("../Configs/wins")
 
 async function hashPassword(password) {
     try {

@@ -1,0 +1,583 @@
+[2020-12-20T04:06:23.919Z] info Service running on port 9000
+[2020-12-20T04:06:23.937Z] info Redis connect
+[2020-12-20T04:06:24.133Z] info Database connect
+[2020-12-20T04:21:03.139Z] info Service running on port 9000
+[2020-12-20T04:21:03.159Z] info Redis connect
+[2020-12-20T04:21:03.351Z] info Database connect
+[2020-12-20T04:23:11.957Z] info Users added
+[2020-12-20T04:23:52.430Z] info Get all users
+[2020-12-20T05:03:21.141Z] info Service running on port 9000
+[2020-12-20T05:03:21.158Z] info Connection to redis OKE
+[2020-12-20T05:03:21.160Z] info Redis connect
+[2020-12-20T05:03:21.353Z] info Database connect
+[2020-12-20T05:03:44.469Z] warn Check token failed jwt expired
+[2020-12-20T05:03:51.543Z] info Token created Token created
+[2020-12-20T05:03:51.548Z] info Login was successfull Token created
+[2020-12-20T05:04:07.546Z] info Get all users
+[2020-12-20T05:04:27.585Z] info Cannot add users: check email.
+[2020-12-20T05:04:49.488Z] warn Check token failed jwt expired
+[2020-12-20T05:04:54.996Z] warn Check token failed jwt malformed
+[2020-12-20T05:05:19.298Z] info Cannot update users: check role
+[2020-12-20T05:05:31.563Z] info Users updated
+[2020-12-20T05:05:39.525Z] info Get all users
+[2020-12-20T05:06:05.585Z] info Get all users
+[2020-12-20T05:06:15.816Z] warn Check token failed jwt expired
+[2020-12-20T05:06:27.764Z] info Users was deleted
+[2020-12-20T05:07:02.382Z] info Get all users
+[2020-12-20T05:07:19.464Z] info Get product from postgres
+[2020-12-20T05:07:22.326Z] info Get data from redis
+[2020-12-20T05:07:41.866Z] warn Check token failed jwt expired
+[2020-12-20T05:07:54.155Z] warn Cannot order product location is not defined
+[2020-12-20T05:08:22.481Z] warn Cannot order product location is not defined
+[2020-12-20T05:11:32.813Z] info Service running on port 9000
+[2020-12-20T05:11:32.832Z] info Connection to redis OKE
+[2020-12-20T05:11:32.834Z] info Redis connect
+[2020-12-20T05:11:33.021Z] info Database connect
+[2020-12-20T05:11:42.128Z] info Order product
+[2020-12-20T05:12:02.671Z] warn Check token failed jwt expired
+[2020-12-20T05:12:11.699Z] info Search product
+[2020-12-20T05:12:45.629Z] info Login failed: check password.
+[2020-12-20T05:13:03.293Z] info Login failed: check email.
+[2020-12-20T05:13:10.176Z] info Token created Token created
+[2020-12-20T05:13:10.212Z] info Login was successfull Token created
+[2020-12-20T05:13:34.390Z] info Token not permitted
+[2020-12-20T05:14:02.037Z] info Token not permitted
+[2020-12-20T05:14:38.893Z] info Order product
+[2020-12-20T05:15:19.202Z] info Search product
+[2020-12-20T05:15:30.754Z] warn Check token failed jwt expired
+[2020-12-20T05:15:40.635Z] info Get product from postgres
+[2020-12-20T05:15:47.105Z] info Get data from redis
+[2020-12-20T05:15:49.006Z] info Get data from redis
+[2020-12-20T05:16:15.855Z] info Token created Token created
+[2020-12-20T05:16:15.856Z] info Login was successfull Token created
+[2020-12-20T05:18:03.402Z] info Image was uploaded
+[2020-12-20T05:18:03.406Z] info Add product was successfull
+[2020-12-20T05:18:21.638Z] info Image was uploaded
+[2020-12-20T05:18:22.059Z] info Add product was successfull
+[2020-12-20T05:18:29.513Z] info Get product from postgres
+[2020-12-20T05:19:34.096Z] warn Check token failed jwt expired
+[2020-12-20T05:19:45.682Z] info Update product failed: check image product
+[2020-12-20T05:20:35.474Z] info Image was uploaded
+[2020-12-20T05:20:35.712Z] info Update product was successfull
+[2020-12-20T05:20:50.893Z] info Image was uploaded
+[2020-12-20T05:20:50.993Z] info Update product was successfull
+[2020-12-20T05:20:56.659Z] info Get product from postgres
+[2020-12-20T05:22:02.764Z] info Image was uploaded
+[2020-12-20T05:22:02.792Z] info Update product was successfull
+[2020-12-20T05:22:14.947Z] info Get product from postgres
+[2020-12-20T05:23:10.072Z] warn Check token failed jwt expired
+[2020-12-20T05:23:17.720Z] info Product was deleted
+[2020-12-20T05:23:30.679Z] info Product was deleted
+[2020-12-20T05:23:42.067Z] warn Check token failed jwt expired
+[2020-12-20T05:23:51.579Z] info Token created Token created
+[2020-12-20T05:23:51.580Z] info Login was successfull Token created
+[2020-12-20T05:24:14.502Z] info Get product from postgres
+[2020-12-20T05:24:37.243Z] warn Check token failed jwt expired
+[2020-12-20T05:24:47.448Z] info Order product
+[2020-12-20T05:25:12.580Z] info Order product
+[2020-12-20T05:30:40.257Z] info Token created Token created
+[2020-12-20T05:30:40.258Z] info Login was successfull Token created
+[2020-12-20T05:31:27.330Z] info Image was uploaded
+[2020-12-20T05:31:27.335Z] info Update product was successfull
+[2020-12-20T05:34:11.412Z] info Image was uploaded
+[2020-12-20T05:34:11.422Z] info Update product was successfull
+[2020-12-20T05:34:30.388Z] info Get product from postgres
+[2020-12-20T05:34:53.651Z] info Image was uploaded
+[2020-12-20T05:34:53.689Z] info Update product was successfull
+[2020-12-20T05:35:02.088Z] info Get data from redis
+[2020-12-20T05:35:25.292Z] info Get data from redis
+[2020-12-20T05:35:53.931Z] info Get product from postgres
+[2020-12-20T05:36:31.871Z] info Update product failed: check image product
+[2020-12-20T05:36:42.104Z] info Image was uploaded
+[2020-12-20T05:36:42.111Z] info Update product was successfull
+[2020-12-20T05:36:52.985Z] info Image was uploaded
+[2020-12-20T05:36:52.989Z] info Update product was successfull
+[2020-12-20T05:37:08.078Z] info Image was uploaded
+[2020-12-20T05:37:08.084Z] info Update product was successfull
+[2020-12-21T01:55:31.375Z] info Service running on port 9000
+[2020-12-21T01:55:33.715Z] info Connection to redis OKE
+[2020-12-21T01:55:33.719Z] info Redis connect
+[2020-12-21T01:55:38.080Z] info Database connect
+[2020-12-21T02:23:17.881Z] info Token created Token created
+[2020-12-21T02:23:17.977Z] info Login was successfull Token created
+[2020-12-21T02:23:39.284Z] info Token created Token created
+[2020-12-21T02:23:39.292Z] info Login was successfull Token created
+[2020-12-21T02:24:14.976Z] info Get all users
+[2020-12-21T02:25:29.941Z] info Users updated
+[2020-12-21T02:25:44.680Z] info Cannot update users: check data input
+[2020-12-21T02:25:53.445Z] info Cannot update users: check data input
+[2020-12-21T02:26:09.571Z] info Get all users
+[2020-12-21T02:26:33.964Z] warn Check token failed jwt expired
+[2020-12-21T02:26:44.895Z] warn Failed get id users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:26:44.979Z] warn Cannot delete users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:27:00.226Z] warn Failed get id users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:27:00.232Z] warn Cannot delete users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:27:03.862Z] warn Failed get id users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:27:03.872Z] warn Cannot delete users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:27:09.343Z] info Users was deleted
+[2020-12-21T02:27:19.436Z] info Users was deleted
+[2020-12-21T02:27:28.138Z] info Get all users
+[2020-12-21T02:27:51.099Z] info Get product from postgres
+[2020-12-21T02:28:05.113Z] warn Check token failed jwt malformed
+[2020-12-21T02:28:33.527Z] warn Check token failed jwt expired
+[2020-12-21T02:28:47.310Z] info Image was uploaded
+[2020-12-21T02:28:47.656Z] info Add product was successfull
+[2020-12-21T02:29:10.768Z] info Image was uploaded
+[2020-12-21T02:29:10.772Z] info Add product was successfull
+[2020-12-21T02:29:46.046Z] info Image was uploaded
+[2020-12-21T02:29:46.098Z] info Update product was successfull
+[2020-12-21T02:30:05.212Z] info Get product from postgres
+[2020-12-21T02:30:32.375Z] info Image was uploaded
+[2020-12-21T02:30:32.459Z] info Update product was successfull
+[2020-12-21T02:30:46.605Z] info Get data from redis
+[2020-12-21T02:31:25.048Z] warn Check token failed jwt expired
+[2020-12-21T02:31:33.056Z] info Product was deleted
+[2020-12-21T02:31:44.524Z] info Product was deleted
+[2020-12-21T02:32:02.715Z] info Product was deleted
+[2020-12-21T02:32:10.247Z] info Get product from postgres
+[2020-12-21T02:32:37.503Z] info Image was uploaded
+[2020-12-21T02:32:37.970Z] info Add product was successfull
+[2020-12-21T02:32:48.812Z] info Get data from redis
+[2020-12-21T02:34:04.553Z] info Login failed: check password.
+[2020-12-21T02:34:18.546Z] info Token created Token created
+[2020-12-21T02:34:18.562Z] info Login was successfull Token created
+[2020-12-21T02:34:48.348Z] info Token not permitted
+[2020-12-21T02:35:03.938Z] info Get product from postgres
+[2020-12-21T02:35:32.827Z] info Token not permitted
+[2020-12-21T02:35:50.466Z] info Token not permitted
+[2020-12-21T02:36:05.793Z] info Token not permitted
+[2020-12-21T02:36:35.481Z] info Order product
+[2020-12-21T02:36:58.498Z] info Order product
+[2020-12-21T02:37:29.919Z] info Search product
+[2020-12-21T02:38:29.863Z] warn Check token failed jwt expired
+[2020-12-21T02:39:03.892Z] info Token created Token created
+[2020-12-21T02:39:03.905Z] info Login was successfull Token created
+[2020-12-21T02:39:29.794Z] warn Failed get id users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:39:29.810Z] warn Cannot delete users invalid input syntax for type bigint: "undefined"
+[2020-12-21T02:39:40.798Z] info Users was deleted
+[2020-12-21T02:42:13.146Z] info Image was uploaded
+[2020-12-21T02:42:13.146Z] info Add product was successfull
+[2020-12-21T02:42:22.907Z] info Image was uploaded
+[2020-12-21T02:42:23.466Z] info Add product was successfull
+[2020-12-21T02:42:41.429Z] info Get product from postgres
+[2020-12-21T02:43:28.336Z] info Get data from redis
+[2020-12-21T02:43:33.417Z] info Get data from redis
+[2020-12-21T02:45:50.555Z] warn Check token failed jwt expired
+[2020-12-21T02:46:04.178Z] info Get all users
+[2020-12-21T03:15:27.204Z] info Token created Token created
+[2020-12-21T03:15:27.250Z] info Login was successfull Token created
+[2020-12-21T03:15:46.545Z] info Get product from postgres
+[2020-12-21T03:16:05.530Z] info Get data from redis
+[2020-12-21T03:35:58.090Z] info Invalid token: login first
+[2020-12-21T03:36:07.592Z] warn Check token failed jwt expired
+[2020-12-21T03:37:21.439Z] info Token created Token created
+[2020-12-21T03:37:21.440Z] info Login was successfull Token created
+[2020-12-21T03:37:40.292Z] info Get product from postgres
+[2020-12-21T03:56:55.186Z] info Token created Token created
+[2020-12-21T03:56:55.187Z] info Login was successfull Token created
+[2020-12-21T03:57:10.792Z] warn Check token failed jwt expired
+[2020-12-21T03:57:21.114Z] info Get all users
+[2020-12-21T03:58:03.006Z] info Users added
+[2020-12-21T03:58:18.947Z] info Get all users
+[2020-12-21T03:58:58.188Z] warn Check token failed jwt expired
+[2020-12-21T03:59:08.118Z] info Cannot update users: check data input
+[2020-12-21T03:59:20.862Z] info Cannot update users: check data input
+[2020-12-21T03:59:26.494Z] info Cannot update users: check data input
+[2020-12-21T03:59:40.367Z] info Cannot update users: check data input
+[2020-12-21T04:00:06.856Z] info Cannot update users: check role
+[2020-12-21T04:00:16.555Z] info Users updated
+[2020-12-21T04:00:27.210Z] info Get all users
+[2020-12-21T04:00:58.644Z] warn Check token failed jwt expired
+[2020-12-21T04:01:09.103Z] info Users was deleted
+[2020-12-21T04:01:25.873Z] info Users was deleted
+[2020-12-21T04:01:33.915Z] info Get all users
+[2020-12-21T04:02:06.855Z] info Get product from postgres
+[2020-12-21T04:02:24.854Z] info Invalid token: login first
+[2020-12-21T04:02:53.718Z] info Order product
+[2020-12-21T04:04:01.522Z] info Image was uploaded
+[2020-12-21T04:04:01.540Z] info Add product was successfull
+[2020-12-21T04:04:23.162Z] info Image was uploaded
+[2020-12-21T04:04:23.877Z] info Add product was successfull
+[2020-12-21T04:04:53.796Z] warn Check token failed jwt expired
+[2020-12-21T04:05:10.823Z] info Image was uploaded
+[2020-12-21T04:05:10.915Z] info Update product was successfull
+[2020-12-21T04:05:45.254Z] info Login failed: check password.
+[2020-12-21T04:05:53.840Z] info Login failed: check email.
+[2020-12-21T04:06:00.852Z] info Token created Token created
+[2020-12-21T04:06:00.856Z] info Login was successfull Token created
+[2020-12-21T04:06:23.294Z] info Token not permitted
+[2020-12-21T04:06:49.923Z] info Token not permitted
+[2020-12-21T04:07:09.991Z] info Search product
+[2020-12-21T04:07:38.040Z] info Get product from postgres
+[2020-12-21T04:08:15.914Z] info Get data from redis
+[2020-12-29T07:26:09.457Z] info Service running on port 9000
+[2020-12-29T07:26:11.557Z] info Connection to redis OKE
+[2020-12-29T07:26:11.558Z] info Redis connect
+[2020-12-29T07:26:11.758Z] info Database connect
+[2020-12-29T08:24:58.418Z] info Invalid token: login first
+[2020-12-29T08:27:43.815Z] info Invalid token: login first
+[2020-12-29T08:28:31.334Z] info Invalid token: login first
+[2020-12-29T08:29:58.200Z] info Invalid token: login first
+[2020-12-29T08:30:20.917Z] info Invalid token: login first
+[2020-12-29T09:09:19.578Z] info Invalid token: login first
+[2020-12-29T09:09:26.321Z] info Invalid token: login first
+[2020-12-29T09:10:06.061Z] info Invalid token: login first
+[2020-12-29T09:11:13.139Z] info Invalid token: login first
+[2020-12-29T09:11:49.316Z] info Invalid token: login first
+[2020-12-29T09:12:08.840Z] info Invalid token: login first
+[2020-12-29T09:22:36.331Z] info Invalid token: login first
+[2020-12-29T09:41:12.854Z] info Invalid token: login first
+[2020-12-29T09:43:47.034Z] info Invalid token: login first
+[2020-12-29T09:48:38.957Z] info Invalid token: login first
+[2020-12-29T09:57:23.453Z] info Invalid token: login first
+[2020-12-29T09:57:49.973Z] info Invalid token: login first
+[2021-01-01T04:12:37.749Z] info Service running on port 9000
+[2021-01-01T04:12:39.480Z] info Connection to redis OKE
+[2021-01-01T04:12:39.481Z] info Redis connect
+[2021-01-01T04:12:39.717Z] info Database connect
+[2021-01-01T04:19:18.887Z] info Invalid token: login first
+[2021-01-01T04:20:10.876Z] info Invalid token: login first
+[2021-01-01T05:47:23.742Z] info Login failed: check password.
+[2021-01-01T05:48:02.335Z] info Login failed: check password.
+[2021-01-01T05:50:12.783Z] info Login failed: check password.
+[2021-01-01T05:51:10.364Z] info Login failed: check password.
+[2021-01-01T05:51:54.138Z] info Login failed: check password.
+[2021-01-01T05:53:36.783Z] info Login failed: check password.
+[2021-01-01T05:57:43.485Z] info Login failed: check password.
+[2021-01-01T06:00:01.150Z] info Login failed: check password.
+[2021-01-01T06:01:29.892Z] info Login failed: check password.
+[2021-01-01T06:05:31.399Z] info Login failed: check password.
+[2021-01-01T06:15:34.065Z] info Token created Token created
+[2021-01-01T06:15:34.098Z] info Login was successfull Token created
+[2021-01-01T06:55:07.439Z] info Invalid token: login first
+[2021-01-01T06:57:03.245Z] info Invalid token: login first
+[2021-01-01T06:57:12.993Z] info Invalid token: login first
+[2021-01-01T06:58:01.134Z] info Invalid token: login first
+[2021-01-01T06:58:13.644Z] info Invalid token: login first
+[2021-01-01T07:01:19.730Z] info Invalid token: login first
+[2021-01-01T07:01:42.586Z] info Invalid token: login first
+[2021-01-01T07:01:54.146Z] info Invalid token: login first
+[2021-01-01T07:08:36.160Z] info Invalid token: login first
+[2021-01-01T07:10:01.484Z] info Invalid token: login first
+[2021-01-01T07:27:48.014Z] info Invalid token: login first
+[2021-01-01T07:29:34.323Z] info Invalid token: login first
+[2021-01-01T07:31:13.309Z] info Token created Token created
+[2021-01-01T07:31:13.310Z] info Login was successfull Token created
+[2021-01-01T07:35:47.445Z] info Invalid token: login first
+[2021-01-01T08:07:09.315Z] info Get product from postgres
+[2021-01-01T08:07:13.204Z] info Invalid token: login first
+[2021-01-01T08:08:35.634Z] info Get product from postgres
+[2021-01-01T08:08:41.831Z] info Get data from redis
+[2021-01-01T08:10:13.369Z] info Get product from postgres
+[2021-01-01T08:11:02.465Z] info Get data from redis
+[2021-01-01T08:11:37.213Z] info Get product from postgres
+[2021-01-01T08:11:39.149Z] info Order product
+[2021-01-01T08:11:47.493Z] info Invalid token: login first
+[2021-01-01T08:12:05.078Z] info Get data from redis
+[2021-01-01T08:12:16.647Z] info Get data from redis
+[2021-01-01T08:12:37.833Z] info Get product from postgres
+[2021-01-01T08:12:46.017Z] info Get data from redis
+[2021-01-01T08:12:48.953Z] info Get data from redis
+[2021-01-01T08:12:54.606Z] info Get data from redis
+[2021-01-01T08:13:08.320Z] info Get data from redis
+[2021-01-01T08:13:13.367Z] info Get data from redis
+[2021-01-01T08:13:30.737Z] info Get data from redis
+[2021-01-01T08:13:38.851Z] info Get product from postgres
+[2021-01-01T08:14:08.742Z] info Get data from redis
+[2021-01-01T08:18:20.790Z] info Token not permitted
+[2021-01-01T08:18:57.673Z] info Token created Token created
+[2021-01-01T08:18:57.678Z] info Login was successfull Token created
+[2021-01-01T08:19:20.878Z] info Get all users
+[2021-01-01T08:21:52.579Z] info Get product from postgres
+[2021-01-01T08:22:19.054Z] info Invalid token: login first
+[2021-01-01T08:42:29.411Z] info Get product from postgres
+[2021-01-01T08:47:58.257Z] info Get product from postgres
+[2021-01-01T08:50:40.779Z] info Order product
+[2021-01-01T08:51:12.928Z] info Token not permitted
+[2021-01-01T08:53:50.433Z] info Get product from postgres
+[2021-01-01T09:24:39.462Z] info Get product from postgres
+[2021-01-01T09:29:39.284Z] info Get product from postgres
+[2021-01-01T09:42:09.586Z] info Get product from postgres
+[2021-01-01T09:43:43.345Z] info Get product from postgres
+[2021-01-01T09:49:59.774Z] info Get product from postgres
+[2021-01-01T09:54:02.252Z] info Get product from postgres
+[2021-01-01T09:58:30.365Z] info Get product from postgres
+[2021-01-01T10:04:33.829Z] info Token created Token created
+[2021-01-01T10:04:33.831Z] info Login was successfull Token created
+[2021-01-01T10:06:48.936Z] info Get product from postgres
+[2021-01-01T10:07:07.281Z] info Token created Token created
+[2021-01-01T10:07:07.309Z] info Login was successfull Token created
+[2021-01-01T10:07:09.562Z] info Get data from redis
+[2021-01-01T10:07:39.882Z] info Token created Token created
+[2021-01-01T10:07:39.883Z] info Login was successfull Token created
+[2021-01-01T10:07:43.040Z] info Get data from redis
+[2021-01-01T10:12:11.436Z] info Get product from postgres
+[2021-01-01T10:12:26.838Z] info Token created Token created
+[2021-01-01T10:12:26.839Z] info Login was successfull Token created
+[2021-01-01T10:13:15.005Z] info Token created Token created
+[2021-01-01T10:13:15.006Z] info Login was successfull Token created
+[2021-01-01T10:13:15.317Z] info Get product from postgres
+[2021-01-01T10:13:17.877Z] info Get data from redis
+[2021-01-01T10:16:11.616Z] info Get product from postgres
+[2021-01-01T10:18:05.306Z] info Get product from postgres
+[2021-01-01T10:23:12.064Z] info Get product from postgres
+[2021-01-01T10:25:47.756Z] info Token created Token created
+[2021-01-01T10:25:47.758Z] info Login was successfull Token created
+[2021-01-01T10:25:48.123Z] info Get product from postgres
+[2021-01-01T10:25:50.840Z] info Get data from redis
+[2021-01-01T10:26:25.567Z] info Get data from redis
+[2021-01-01T10:27:41.737Z] info Get product from postgres
+[2021-01-01T10:28:40.848Z] info Get data from redis
+[2021-01-01T10:32:32.612Z] info Invalid token: login first
+[2021-01-01T10:32:35.255Z] info Invalid token: login first
+[2021-01-01T10:33:24.243Z] info Invalid token: login first
+[2021-01-01T10:33:43.560Z] info Token created Token created
+[2021-01-01T10:33:43.561Z] info Login was successfull Token created
+[2021-01-01T10:33:46.672Z] info Get product from postgres
+[2021-01-01T10:35:34.871Z] info Get product from postgres
+[2021-01-01T10:38:10.643Z] info Invalid token: login first
+[2021-01-01T10:38:13.068Z] info Invalid token: login first
+[2021-01-01T10:38:29.916Z] info Token created Token created
+[2021-01-01T10:38:29.917Z] info Login was successfull Token created
+[2021-01-01T10:38:30.385Z] info Get product from postgres
+[2021-01-01T10:38:33.019Z] info Get data from redis
+[2021-01-01T10:39:16.198Z] info Get data from redis
+[2021-01-01T10:40:08.978Z] info Get product from postgres
+[2021-01-01T10:40:14.022Z] info Get data from redis
+[2021-01-01T10:41:43.571Z] info Get product from postgres
+[2021-01-01T10:42:54.621Z] info Get product from postgres
+[2021-01-01T10:44:13.164Z] info Get product from postgres
+[2021-01-01T10:44:20.151Z] info Invalid token: login first
+[2021-01-01T10:44:22.897Z] info Invalid token: login first
+[2021-01-01T10:45:22.254Z] info Token created Token created
+[2021-01-01T10:45:22.300Z] info Login was successfull Token created
+[2021-01-01T10:45:22.653Z] info Get product from postgres
+[2021-01-01T10:45:25.241Z] info Get data from redis
+[2021-01-01T12:27:31.717Z] info Get product from postgres
+[2021-01-01T12:40:14.115Z] info Service running on port 9000
+[2021-01-01T12:40:14.464Z] info Connection to redis OKE
+[2021-01-01T12:40:14.469Z] info Redis connect
+[2021-01-01T12:40:15.578Z] info Database connect
+[2021-01-01T12:41:50.785Z] info Token created Token created
+[2021-01-01T12:41:50.786Z] info Login was successfull Token created
+[2021-01-01T12:49:21.590Z] info Get product from postgres
+[2021-01-01T12:59:02.229Z] info Get product from postgres
+[2021-01-01T13:00:23.706Z] info Token created Token created
+[2021-01-01T13:00:23.707Z] info Login was successfull Token created
+[2021-01-01T13:00:24.930Z] info Get product from postgres
+[2021-01-01T13:02:12.767Z] info Get product from postgres
+[2021-01-01T13:12:40.787Z] info Get product from postgres
+[2021-01-01T13:15:47.883Z] info Get product from postgres
+[2021-01-01T13:16:17.614Z] info Token created Token created
+[2021-01-01T13:16:17.615Z] info Login was successfull Token created
+[2021-01-01T13:16:18.278Z] info Get data from redis
+[2021-01-01T13:16:20.583Z] info Get data from redis
+[2021-01-01T13:17:34.131Z] info Order product
+[2021-01-01T13:39:03.223Z] info Get product from postgres
+[2021-01-01T13:43:41.094Z] info Get product from postgres
+[2021-01-01T13:58:05.207Z] info Get product from postgres
+[2021-01-01T14:08:00.279Z] info Get product from postgres
+[2021-01-01T14:08:32.928Z] info Get data from redis
+[2021-01-01T14:10:59.894Z] info Get product from postgres
+[2021-01-01T14:11:05.502Z] info Get data from redis
+[2021-01-01T14:13:50.024Z] info Get product from postgres
+[2021-01-01T14:15:13.558Z] info Get product from postgres
+[2021-01-01T14:16:24.450Z] info Get product from postgres
+[2021-01-01T14:22:37.813Z] info Get product from postgres
+[2021-01-01T14:22:50.751Z] info Get data from redis
+[2021-01-01T14:30:37.644Z] info Get product from postgres
+[2021-01-01T14:36:57.276Z] info Get product from postgres
+[2021-01-01T14:38:56.301Z] info Get product from postgres
+[2021-01-01T14:39:16.726Z] info Get data from redis
+[2021-01-01T14:39:37.823Z] info Get data from redis
+[2021-01-01T14:55:18.956Z] info Get product from postgres
+[2021-01-01T14:58:24.141Z] info Update product failed: check image product
+[2021-01-01T15:22:09.613Z] info Get product from postgres
+[2021-01-01T15:25:36.125Z] info Get product from postgres
+[2021-01-01T15:26:09.996Z] info Get data from redis
+[2021-01-01T15:32:47.544Z] info Get product from postgres
+[2021-01-01T15:33:30.680Z] info Get data from redis
+[2021-01-01T15:44:04.722Z] info Get product from postgres
+[2021-01-01T15:44:49.418Z] info Get data from redis
+[2021-01-01T15:48:05.676Z] info Get product from postgres
+[2021-01-01T16:01:43.367Z] info Get product from postgres
+[2021-01-01T16:07:28.469Z] info Get product from postgres
+[2021-01-01T16:09:14.440Z] info Get product from postgres
+[2021-01-01T16:10:38.674Z] info Get product from postgres
+[2021-01-01T16:18:03.823Z] info Image was uploaded
+[2021-01-01T16:18:04.023Z] info Add product was successfull
+[2021-01-01T16:18:45.509Z] info Get product from postgres
+[2021-01-01T16:18:48.546Z] info Order product
+[2021-01-01T16:19:40.345Z] info Get data from redis
+[2021-01-01T16:20:19.832Z] info Order product
+[2021-01-01T16:24:37.293Z] info Token created Token created
+[2021-01-01T16:24:37.294Z] info Login was successfull Token created
+[2021-01-01T16:24:37.694Z] info Get product from postgres
+[2021-01-01T16:24:38.894Z] info Get data from redis
+[2021-01-01T16:26:36.464Z] info Get product from postgres
+[2021-01-01T16:27:14.441Z] info Token created Token created
+[2021-01-01T16:27:14.441Z] info Login was successfull Token created
+[2021-01-01T16:27:14.832Z] info Get data from redis
+[2021-01-01T16:27:15.960Z] info Get data from redis
+[2021-01-01T16:30:58.172Z] info Get product from postgres
+[2021-01-01T16:33:04.168Z] info Get product from postgres
+[2021-01-01T16:56:12.109Z] info Get product from postgres
+[2021-01-01T16:57:49.687Z] info Token created Token created
+[2021-01-01T16:57:49.689Z] info Login was successfull Token created
+[2021-01-01T16:57:50.103Z] info Get product from postgres
+[2021-01-01T16:57:53.507Z] info Get data from redis
+[2021-01-01T17:00:33.870Z] info Order product
+[2021-01-01T17:04:37.119Z] info Token created Token created
+[2021-01-01T17:04:37.121Z] info Login was successfull Token created
+[2021-01-01T17:04:39.395Z] info Get product from postgres
+[2021-01-01T17:06:01.923Z] info Token created Token created
+[2021-01-01T17:06:01.925Z] info Login was successfull Token created
+[2021-01-01T17:06:02.236Z] info Get product from postgres
+[2021-01-01T17:06:03.604Z] info Get data from redis
+[2021-01-02T03:06:32.860Z] info Service running on port 9000
+[2021-01-02T03:06:33.781Z] info Connection to redis OKE
+[2021-01-02T03:06:33.782Z] info Redis connect
+[2021-01-02T03:06:33.824Z] info Database connect
+[2021-01-02T04:31:53.041Z] info Login failed: check email.
+[2021-01-02T04:32:01.670Z] warn Check token failed jwt malformed
+[2021-01-02T04:36:43.449Z] warn Check token failed jwt malformed
+[2021-01-02T04:38:10.816Z] warn Check token failed jwt malformed
+[2021-01-02T04:38:30.363Z] warn Check token failed jwt malformed
+[2021-01-02T04:39:07.310Z] info Login failed: check email.
+[2021-01-02T04:39:40.826Z] info Login failed: check password.
+[2021-01-02T04:40:08.000Z] info Login failed: check email.
+[2021-01-02T04:40:20.174Z] info Token created Token created
+[2021-01-02T04:40:20.178Z] info Login was successfull Token created
+[2021-01-02T04:40:20.971Z] info Get product from postgres
+[2021-01-02T04:40:31.605Z] info Get data from redis
+[2021-01-02T04:40:41.428Z] info Order product
+[2021-01-02T04:42:03.861Z] info Get product from postgres
+[2021-01-02T04:44:23.720Z] info Login failed: check email.
+[2021-01-02T04:45:26.589Z] info Token created Token created
+[2021-01-02T04:45:26.590Z] info Login was successfull Token created
+[2021-01-02T04:45:27.087Z] info Get product from postgres
+[2021-01-02T04:45:29.561Z] info Get data from redis
+[2021-01-02T04:46:43.263Z] info Image was uploaded
+[2021-01-02T04:46:43.285Z] info Add product was successfull
+[2021-01-02T04:46:51.777Z] info Get product from postgres
+[2021-01-02T04:47:02.518Z] info Order product
+[2021-01-02T04:48:00.831Z] info Get product from postgres
+[2021-01-02T05:31:08.720Z] info Token created Token created
+[2021-01-02T05:31:08.722Z] info Login was successfull Token created
+[2021-01-02T05:31:09.325Z] info Get product from postgres
+[2021-01-02T05:31:12.193Z] info Get data from redis
+[2021-01-02T05:57:29.715Z] info Get product from postgres
+[2021-01-02T06:37:57.925Z] info Get product from postgres
+[2021-01-02T06:38:51.350Z] info Image was uploaded
+[2021-01-02T06:38:54.366Z] info Add product was successfull
+[2021-01-02T06:39:01.876Z] info Get product from postgres
+[2021-01-02T06:39:09.924Z] info Order product
+[2021-01-02T06:45:02.924Z] info Get product from postgres
+[2021-01-02T06:53:22.928Z] info Get product from postgres
+[2021-01-02T06:53:34.396Z] info Get data from redis
+[2021-01-02T06:57:13.957Z] info Get product from postgres
+[2021-01-02T06:57:26.849Z] info Order product
+[2021-01-02T06:59:18.567Z] info Get product from postgres
+[2021-01-02T06:59:27.662Z] info Order product
+[2021-01-02T07:00:26.634Z] info Image was uploaded
+[2021-01-02T07:00:27.437Z] info Update product was successfull
+[2021-01-02T07:00:33.662Z] info Get product from postgres
+[2021-01-02T07:00:39.836Z] info Order product
+[2021-01-02T07:21:07.031Z] info Get product from postgres
+[2021-01-02T07:47:22.645Z] info Token created Token created
+[2021-01-02T07:47:22.759Z] info Login was successfull Token created
+[2021-01-02T07:50:02.929Z] info Users added
+[2021-01-02T07:50:37.879Z] info Cannot add users: check email.
+[2021-01-02T07:56:20.241Z] info Users added
+[2021-01-02T08:00:16.192Z] info Get all users
+[2021-01-02T08:00:47.831Z] info Users was deleted
+[2021-01-02T08:00:54.741Z] info Get all users
+[2021-01-02T08:04:01.810Z] info Cannot add users: check data input.
+[2021-01-02T08:05:37.087Z] info Users added
+[2021-01-02T08:06:14.404Z] info Get all users
+[2021-01-02T08:06:29.190Z] info Users was deleted
+[2021-01-02T08:06:34.123Z] info Get all users
+[2021-01-02T08:07:10.948Z] info Users added
+[2021-01-02T08:14:25.312Z] info Get all users
+[2021-01-02T08:14:44.807Z] info Users was deleted
+[2021-01-02T08:16:08.209Z] info Get all users
+[2021-01-02T08:16:21.904Z] info Cannot add users: check data input.
+[2021-01-02T08:17:19.827Z] info Cannot add users: check data input.
+[2021-01-02T08:18:32.410Z] info Cannot add users: check email.
+[2021-01-02T08:18:58.787Z] info Login failed: check email.
+[2021-01-02T08:19:11.295Z] info Cannot add users: check data input.
+[2021-01-02T08:21:02.978Z] info Cannot add users: check data input.
+[2021-01-02T08:23:19.867Z] info Cannot add users: check data input.
+[2021-01-02T08:24:00.290Z] info Cannot add users: check email.
+[2021-01-02T08:24:20.259Z] info Cannot add users: check email.
+[2021-01-02T08:25:50.270Z] info Cannot add users: check email.
+[2021-01-02T08:28:09.369Z] info Cannot add users: check data input.
+[2021-01-02T08:28:20.202Z] info Cannot add users: check data input.
+[2021-01-02T08:30:08.212Z] info Cannot add users: check data input.
+[2021-01-02T08:34:59.819Z] info Cannot add users: check data input.
+[2021-01-02T08:35:33.197Z] info Cannot add users: check email.
+[2021-01-02T08:37:16.242Z] info Users added
+[2021-01-02T08:37:43.435Z] info Cannot add users: check email.
+[2021-01-02T08:38:51.030Z] info Cannot add users: check email.
+[2021-01-02T08:39:39.125Z] info Cannot add users: check email.
+[2021-01-02T08:39:54.532Z] info Cannot add users: check email.
+[2021-01-02T08:41:05.653Z] info Get all users
+[2021-01-02T08:41:27.365Z] info Users was deleted
+[2021-01-02T08:41:32.599Z] info Get all users
+[2021-01-02T08:42:41.990Z] info Cannot add users: check data input.
+[2021-01-02T08:44:16.818Z] info Cannot add users: check email.
+[2021-01-02T08:44:32.743Z] info Users added
+[2021-01-02T08:45:42.304Z] info Get all users
+[2021-01-02T08:46:00.694Z] info Users was deleted
+[2021-01-02T08:46:06.136Z] info Get all users
+[2021-01-02T08:46:20.045Z] info Login failed: check email.
+[2021-01-02T08:46:33.539Z] info Login failed: check email.
+[2021-01-02T08:46:43.498Z] info Login failed: check password.
+[2021-01-02T08:48:09.364Z] info Login failed: check email.
+[2021-01-02T08:48:28.230Z] info Login failed: check email.
+[2021-01-02T08:49:50.977Z] info Login failed: check email.
+[2021-01-02T08:50:10.667Z] info Login failed: check password.
+[2021-01-02T08:52:00.906Z] info Token created Token created
+[2021-01-02T08:52:00.909Z] info Login was successfull Token created
+[2021-01-02T08:52:06.855Z] info Get product from postgres
+[2021-01-02T08:52:52.448Z] info Get data from redis
+[2021-01-02T08:58:27.247Z] info Login failed: check email.
+[2021-01-02T08:58:50.600Z] info Login failed: check password.
+[2021-01-02T08:59:01.966Z] info Token created Token created
+[2021-01-02T08:59:01.982Z] info Login was successfull Token created
+[2021-01-02T08:59:02.623Z] info Get product from postgres
+[2021-01-02T08:59:04.842Z] info Get data from redis
+[2021-01-02T08:59:13.060Z] info Order product
+[2021-01-02T09:02:26.104Z] info Get product from postgres
+[2021-01-02T09:06:38.428Z] info Token created Token created
+[2021-01-02T09:06:38.432Z] info Login was successfull Token created
+[2021-01-02T09:06:39.510Z] info Get product from postgres
+[2021-01-02T09:06:41.033Z] info Get data from redis
+[2021-01-02T09:06:54.505Z] info Order product
+[2021-01-02T09:22:38.899Z] info Get product from postgres
+[2021-01-02T09:31:58.456Z] info Get product from postgres
+[2021-01-02T09:39:42.290Z] info Get product from postgres
+[2021-01-02T09:55:18.864Z] info Get product from postgres
+[2021-01-02T10:02:13.414Z] info Get product from postgres
+[2021-01-02T11:12:58.360Z] info Get product from postgres
+[2021-01-02T11:36:09.562Z] info Token created Token created
+[2021-01-02T11:36:09.573Z] info Login was successfull Token created
+[2021-01-02T11:36:10.453Z] info Get product from postgres
+[2021-01-02T11:36:12.266Z] info Get data from redis
+[2021-01-02T11:37:43.235Z] info Get product from postgres
+[2021-01-02T11:38:17.179Z] info Get data from redis
+[2021-01-02T15:46:55.841Z] info Service running on port 9000
+[2021-01-02T15:46:56.071Z] info Connection to redis OKE
+[2021-01-02T15:46:56.073Z] info Redis connect
+[2021-01-02T15:46:56.075Z] info Database connect
+[2021-01-02T16:03:35.021Z] info Get product from postgres
+[2021-01-02T16:06:47.993Z] info Token created Token created
+[2021-01-02T16:06:47.994Z] info Login was successfull Token created
+[2021-01-02T16:06:48.455Z] info Get product from postgres
+[2021-01-02T16:06:49.352Z] info Get data from redis
+[2021-01-02T16:30:57.769Z] info Get product from postgres
+[2021-01-02T16:38:38.321Z] info Get product from postgres
+[2021-01-02T16:39:03.707Z] info Token created Token created
+[2021-01-02T16:39:03.711Z] info Login was successfull Token created
+[2021-01-02T16:39:03.971Z] info Get data from redis
+[2021-01-02T16:39:05.110Z] info Get data from redis

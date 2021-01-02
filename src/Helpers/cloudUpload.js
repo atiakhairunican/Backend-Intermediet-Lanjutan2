@@ -1,4 +1,5 @@
 const { uploader } = require("cloudinary").v2
+const loggers = require("../Configs/wins")
 
 async function uploads(filePath) {
     try {
@@ -6,10 +7,10 @@ async function uploads(filePath) {
             folder: "products",
             use_filename: true
         })
-        
+        loggers.info("Image was uploaded", result.url)
         return result.url
     } catch (error) {
-        console.log(error);
+        loggers.warn("Upload image failed", error);
         throw error
     }
 }

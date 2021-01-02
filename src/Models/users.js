@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable no-undef */
 const db = require("../Configs/db")
+const loggers = require("../Configs/wins")
 
 class Users {
     async add(data) {
@@ -10,6 +11,7 @@ class Users {
                 .then((res) => {
                     resolve(data)
                 }).catch((err) => {
+                    loggers.warn("Failed add users", err)
                     reject(err)
                 });
         })
@@ -26,6 +28,7 @@ class Users {
                         resolve(res.rows);
                     }
                 }).catch((err) => {
+                    loggers.warn("Failed get all users", err)
                     reject(err);
                 });
         })
@@ -37,6 +40,7 @@ class Users {
                 .then((res) => {
                     resolve(res.rows)
                 }).catch((err) => {
+                    loggers.warn("Failed get email users", err)
                     reject(err);
                 });
         })
@@ -49,6 +53,7 @@ class Users {
                 .then((res) => {
                     resolve(data)
                 }).catch((err) => {
+                    loggers.warn("Failed update users", err)
                     reject(err);
                 });
         })
@@ -66,10 +71,12 @@ class Users {
                             .then((res) => {
                                 resolve(`Data with ID = ${id} was deleted`)
                             }).catch((err) => {
+                                loggers.warn("Failed delete users", err)
                                 reject(err);
                             });
                     }
                 }).catch((err) => {
+                    loggers.warn("Failed get id users", err)
                     reject(err);
                 });
         })

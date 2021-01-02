@@ -11,6 +11,7 @@ const router = require("./src/main")
 const cors = require("cors")
 const redis = require("./src/Configs/redis")
 const fs = require("fs")
+const logger = require("./src/Configs/wins")
 
 server.use(bodyPars.urlencoded({extended: false}))
 server.use(bodyPars.json())
@@ -21,20 +22,20 @@ server.use(router)
 
 redis.redisCheck()
     .then((res) => {
-        console.log(res)
+        logger.info("Redis connect", res)
     })
     .catch((err) => {
-        console.log(err)
+        logger.warn("Redis not connect", err)
     })
 
 db.connect()
     .then((res) => {
-        console.log("Database connect")
+        logger.info("Database connect")
     }).catch((err) => {
-        console.log("Database not connected")
-        console.log(err)
+        logger.info("Database not connected")
+        logger.warn(err)
     });
 
 server.listen(9000, () => {
-    console.log("Service running on port 9000")
+    logger.info("Service running on port 9000")
 })

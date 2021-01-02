@@ -7,6 +7,7 @@ const upload = require("../middleware/multer")
 const cache = require("../middleware/cache")
 
 router.get("/", validate(["admin", "customer"]), cache, control.get)
+router.get("/name", control.search)
 router.get("/searchAll/orderedAll", validate(["admin", "customer"]), control.orderedAll)
 router.get("/search/ordered", validate(["admin", "customer"]), control.ordered)
 router.post("/", validate(["admin"]), upload.single('image'), control.add)
