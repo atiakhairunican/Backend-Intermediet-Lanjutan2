@@ -28,13 +28,7 @@ redis.redisCheck()
         logger.warn("Redis not connect", err)
     })
 
-db.connect()
-    .then((res) => {
-        logger.info("Database connect")
-    }).catch((err) => {
-        logger.info("Database not connected")
-        logger.warn(err)
-    });
+db.ConnectTest()
 
 server.listen(9000, () => {
     logger.info("Service running on port 9000")

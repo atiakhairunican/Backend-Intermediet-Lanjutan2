@@ -4,29 +4,17 @@ const db = require("../Configs/db")
 const loggers = require("../Configs/wins")
 const Sequelize = require("sequelize")
 
-class Histories {
+class Categories {
     constructor() {
-        this.Histories = db.sequelize.define("Histories", {
+        this.Categories = db.sequelize.define("Categories", {
             id: {
                 type: Sequelize.INTEGER,
                 allowNull: false,
                 autoIncrement: true,
                 primaryKey: true,
             },
-            cashier: {
+            name_category: {
                 type: Sequelize.STRING(50),
-                allowNull: false
-            },
-            date: {
-                type: Sequelize.STRING(50),
-                allowNull: false
-            },
-            orders: {
-                type: Sequelize.STRING,
-                allowNull: false
-            },
-            amount: {
-                type: Sequelize.BIGINT,
                 allowNull: false
             }
         })
@@ -34,9 +22,9 @@ class Histories {
 
     commit() {
         return new Promise((resolve, reject) => {
-            this.Histories.sync()
+            this.Categories.sync()
             .then(() => {
-                resolve("Table Histories created")
+                resolve("Table Categories created")
             })
             .catch((err) => {
                 reject(err)
@@ -46,9 +34,9 @@ class Histories {
 
     drop() {
         return new Promise((resolve, reject) => {
-            this.Histories.drop()
+            this.Categories.drop()
             .then(() => {
-                resolve("Table Histories deleted")
+                resolve("Table Categories deleted")
             })
             .catch((err) => {
                 reject(err)
@@ -56,34 +44,43 @@ class Histories {
         })
     }
 
-    addHistories(data) {
+    addCategories(data) {
         return new Promise((resolve, reject) => {
-            if (data.cashier != undefined &&
-                data.date != undefined &&
-                data.orders != undefined &&
-                data.amount != undefined) {
-                    this.Histories.create({
-                        cashier: data.cashier,
-                        date: data.date,
-                        orders: data.orders,
-                        amount: data.amount
-                    })
-                        .then((res) => {
-                            resolve(data)
-                        }).catch((err) => {
-                            loggers.warn("Failed add Histories", err)
-                            reject(err)
-                        });
-                }
-            else {
-                resolve("Make sure all data is filled.")
-            }
+            this.Categories.findAll({
+                attributes: ['id', 'name_category'],
+                where: {name_category: data.name}
+            })
+                .then((res) => {
+                    if (res.length == 0) {
+                        this.Categories.create({
+                            name_category: data.name,
+                        })
+                            .then((res) => {
+                                resolve(data)
+                            }).catch((err) => {
+                                loggers.warn("Failed add Categories", err)
+                                reject(err)
+                            });
+                    }
+                    else {
+                        resolve(`Data with name = ${data.name} does exist`)
+                    }
+                }).catch((err) => {
+                    loggers.warn("Something wrong when add Categories", err)
+                    reject(err)
+                });
+            
         })
     }
 
-    getHistories() {
+    getCategories() {
         return new Promise((resolve, reject) => {
-            this.Histories.findAll()
+            this.Categories.findAll({
+                attributes: ['id', 'name_category'],
+                order: [
+                    ['id', 'DESC']
+                ]
+            })
                 .then((res) => {
                     if (res.length == 0) {
                         resolve("Data is empty");
@@ -92,16 +89,16 @@ class Histories {
                         resolve(res);
                     }
                 }).catch((err) => {
-                    loggers.warn("Failed get all Histories", err)
+                    loggers.warn("Failed get all Categories", err)
                     reject(err);
                 });
         })
     }
 
-    updateHistories(data) {
+    updateCategories(data) {
         return new Promise((resolve, reject) => {
-            this.Histories.findAll({
-                attributes: ['id', 'cashier', 'date', 'orders', 'amount'],
+            this.Categories.findAll({
+                attributes: ['id', 'name_category'],
                 where: {id: data.id}
             })
                 .then((res) => {
@@ -109,11 +106,8 @@ class Histories {
                         resolve(`Data with ID = ${data.id} doesn't exist`)
                     }
                     else {
-                        this.Histories.update({
-                            cashier: data.cashier,
-                            date: data.date,
-                            orders: data.orders,
-                            amount: data.amount
+                        this.Categories.update({
+                            name_category: data.name
                         },
                         {
                             where: {id: data.id}
@@ -121,21 +115,22 @@ class Histories {
                             .then((res) => {
                                 resolve(data)
                             }).catch((err) => {
-                                loggers.warn("Failed update Histories", err)
+                                loggers.warn("Failed update Categories", err)
                                 reject(err);
                             });
                     }
                 }).catch((err) => {
-                    loggers.warn("Something wrong when update Histories", err)
+                    loggers.warn("Something wrong when update Categories", err)
                     reject(err);
                 });
             
         })
     }
 
-    delHistories(id) {
+    delCategories(id) {
         return new Promise((resolve, reject) => {
-            this.Histories.findAll({
+            this.Categories.findAll({
+                attributes: ['id', 'name_category'],
                 where: {id: id}
             })
                 .then((res) => {
@@ -143,22 +138,20 @@ class Histories {
                         resolve(`Data with ID = ${id} doesn't exist`)
                     }
                     else {
-                        this.Histories.destroy({
-                            where: {id: id}
-                        })
+                        this.Categories.destroy({where: {id: id}})
                             .then((res) => {
                                 resolve(`Data with ID = ${id} was deleted`)
                             }).catch((err) => {
-                                loggers.warn("Failed delete Histories", err)
+                                loggers.warn("Failed delete Categories", err)
                                 reject(err);
                             });
                     }
                 }).catch((err) => {
-                    loggers.warn("Something wrong when delete Histories", err)
+                    loggers.warn("Something wrong when delete Categories", err)
                     reject(err);
                 });
         })
     }
 }
 
-module.exports = new Histories()
+module.exports = new Categories()

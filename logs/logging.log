@@ -581,3 +581,1548 @@
 [2021-01-02T16:39:03.711Z] info Login was successfull Token created
 [2021-01-02T16:39:03.971Z] info Get data from redis
 [2021-01-02T16:39:05.110Z] info Get data from redis
+[2021-01-02T17:38:05.914Z] info Service running on port 9000
+[2021-01-02T17:38:06.281Z] info Connection to redis OKE
+[2021-01-02T17:38:06.284Z] info Redis connect
+[2021-01-02T17:38:06.607Z] info Database connect
+[2021-01-02T17:38:45.533Z] info Token created Token created
+[2021-01-02T17:38:45.534Z] info Login was successfull Token created
+[2021-01-02T17:38:46.088Z] info Get product from postgres
+[2021-01-02T17:38:51.775Z] info Get data from redis
+[2021-01-02T17:39:22.602Z] info Token created Token created
+[2021-01-02T17:39:22.603Z] info Login was successfull Token created
+[2021-01-02T17:39:22.844Z] info Get data from redis
+[2021-01-02T17:39:26.132Z] info Get data from redis
+[2021-01-06T13:03:33.259Z] info Service running on port 9000
+[2021-01-06T13:03:34.799Z] info Connection to redis OKE
+[2021-01-06T13:03:34.800Z] info Redis connect
+[2021-01-06T13:03:34.908Z] info Database connect
+[2021-01-06T13:11:23.930Z] info Login failed: check email.
+[2021-01-06T13:11:35.464Z] info Token created Token created
+[2021-01-06T13:11:35.466Z] info Login was successfull Token created
+[2021-01-06T13:11:41.616Z] info Get product from postgres
+[2021-01-06T13:13:51.344Z] info Token created Token created
+[2021-01-06T13:13:51.345Z] info Login was successfull Token created
+[2021-01-06T13:13:51.685Z] info Get product from postgres
+[2021-01-06T13:13:52.799Z] info Get data from redis
+[2021-01-06T13:24:04.096Z] info Token created Token created
+[2021-01-06T13:24:04.113Z] info Login was successfull Token created
+[2021-01-06T13:24:16.046Z] info Get product from postgres
+[2021-01-06T13:24:23.156Z] info Get data from redis
+[2021-01-06T13:30:12.799Z] info Get product from postgres
+[2021-01-06T13:34:33.635Z] info Get product from postgres
+[2021-01-06T13:36:03.124Z] info Get product from postgres
+[2021-01-06T13:45:12.284Z] info Get product from postgres
+[2021-01-06T13:50:47.764Z] info Get product from postgres
+[2021-01-06T13:50:57.221Z] info Get data from redis
+[2021-01-06T13:54:09.685Z] info Get product from postgres
+[2021-01-06T13:58:57.044Z] info Get product from postgres
+[2021-01-06T14:01:10.095Z] info Get product from postgres
+[2021-01-06T14:03:02.878Z] info Get product from postgres
+[2021-01-06T14:13:33.341Z] info Get product from postgres
+[2021-01-06T14:13:41.397Z] info Get data from redis
+[2021-01-06T14:13:55.707Z] info Get data from redis
+[2021-01-06T14:14:57.036Z] info Get product from postgres
+[2021-01-06T14:15:00.712Z] info Get data from redis
+[2021-01-06T14:15:14.657Z] info Get data from redis
+[2021-01-06T14:15:17.784Z] info Get data from redis
+[2021-01-06T14:15:20.941Z] info Get data from redis
+[2021-01-06T14:15:27.607Z] info Get data from redis
+[2021-01-06T14:17:43.224Z] info Get product from postgres
+[2021-01-06T14:17:55.132Z] info Get data from redis
+[2021-01-06T14:18:31.874Z] info Get data from redis
+[2021-01-06T14:22:37.054Z] info Get product from postgres
+[2021-01-06T14:22:42.852Z] info Get data from redis
+[2021-01-06T14:22:50.849Z] info Get data from redis
+[2021-01-06T14:23:35.769Z] info Get data from redis
+[2021-01-06T14:24:55.674Z] info Get product from postgres
+[2021-01-06T14:26:22.381Z] info Get product from postgres
+[2021-01-06T14:26:33.195Z] info Get data from redis
+[2021-01-06T14:30:19.444Z] info Get product from postgres
+[2021-01-06T14:30:21.724Z] info Get data from redis
+[2021-01-06T14:30:31.105Z] info Get data from redis
+[2021-01-06T14:38:13.848Z] info Get product from postgres
+[2021-01-06T14:41:13.473Z] info Get product from postgres
+[2021-01-06T14:41:34.900Z] info Get data from redis
+[2021-01-06T14:42:28.052Z] info Get product from postgres
+[2021-01-06T14:43:17.855Z] info Get data from redis
+[2021-01-06T14:48:50.117Z] info Get product from postgres
+[2021-01-06T14:52:31.306Z] info Get product from postgres
+[2021-01-06T14:55:40.696Z] info Get product from postgres
+[2021-01-06T14:55:41.083Z] info Get data from redis
+[2021-01-06T14:55:49.661Z] info Get data from redis
+[2021-01-06T14:55:52.020Z] info Get data from redis
+[2021-01-06T14:55:56.703Z] info Get data from redis
+[2021-01-06T14:55:58.398Z] info Get data from redis
+[2021-01-06T15:02:06.398Z] info Get product from postgres
+[2021-01-06T15:02:13.866Z] info Get data from redis
+[2021-01-06T15:02:14.941Z] info Get data from redis
+[2021-01-06T15:02:22.016Z] info Get data from redis
+[2021-01-06T15:02:22.532Z] info Get data from redis
+[2021-01-06T15:02:24.389Z] info Get data from redis
+[2021-01-06T15:06:17.150Z] info Get product from postgres
+[2021-01-06T15:06:21.091Z] info Get data from redis
+[2021-01-06T15:06:41.780Z] info Get data from redis
+[2021-01-06T15:07:16.452Z] info Get data from redis
+[2021-01-06T15:09:38.259Z] info Get product from postgres
+[2021-01-06T15:09:39.742Z] info Get data from redis
+[2021-01-06T15:12:02.594Z] info Get product from postgres
+[2021-01-06T15:12:02.653Z] info Get data from redis
+[2021-01-06T15:12:02.899Z] info Get data from redis
+[2021-01-06T15:12:03.140Z] info Get data from redis
+[2021-01-06T15:12:03.574Z] info Get data from redis
+[2021-01-06T15:12:03.918Z] info Get data from redis
+[2021-01-06T15:12:04.069Z] info Get data from redis
+[2021-01-06T15:12:04.254Z] info Get data from redis
+[2021-01-06T15:12:04.478Z] info Get data from redis
+[2021-01-06T15:12:04.845Z] info Get data from redis
+[2021-01-06T15:12:09.394Z] info Get data from redis
+[2021-01-06T15:13:26.727Z] info Get product from postgres
+[2021-01-06T15:13:29.717Z] info Get data from redis
+[2021-01-06T15:13:43.966Z] info Get data from redis
+[2021-01-06T15:13:44.206Z] info Get data from redis
+[2021-01-06T15:13:46.464Z] info Get data from redis
+[2021-01-06T15:14:01.397Z] info Get data from redis
+[2021-01-06T15:14:33.636Z] info Get product from postgres
+[2021-01-06T15:14:34.092Z] info Get data from redis
+[2021-01-06T15:14:34.455Z] info Get data from redis
+[2021-01-06T15:28:47.109Z] info Order product
+[2021-01-06T15:59:56.186Z] info Get product from postgres
+[2021-01-06T15:59:57.024Z] info Get data from redis
+[2021-01-06T16:00:02.184Z] info Get data from redis
+[2021-01-06T16:00:02.656Z] info Get data from redis
+[2021-01-06T16:04:47.101Z] info Get product from postgres
+[2021-01-06T16:04:59.105Z] info Get data from redis
+[2021-01-06T16:05:58.311Z] info Get product from postgres
+[2021-01-06T16:07:18.533Z] info Get product from postgres
+[2021-01-06T16:07:20.294Z] info Get data from redis
+[2021-01-06T16:08:41.946Z] info Get product from postgres
+[2021-01-06T16:08:41.972Z] info Get product from postgres
+[2021-01-06T16:08:49.392Z] info Get data from redis
+[2021-01-06T16:09:32.584Z] info Get data from redis
+[2021-01-06T16:09:34.190Z] info Get data from redis
+[2021-01-06T16:09:35.821Z] info Get data from redis
+[2021-01-06T16:09:36.535Z] info Get data from redis
+[2021-01-06T16:09:37.229Z] info Get data from redis
+[2021-01-06T16:09:52.263Z] info Get product from postgres
+[2021-01-06T16:09:56.683Z] info Get data from redis
+[2021-01-06T16:10:33.040Z] info Get data from redis
+[2021-01-06T16:12:53.472Z] info Get product from postgres
+[2021-01-06T16:12:54.318Z] info Get data from redis
+[2021-01-06T16:13:12.871Z] info Get data from redis
+[2021-01-06T16:14:22.158Z] info Get product from postgres
+[2021-01-06T16:14:22.935Z] info Get data from redis
+[2021-01-06T16:26:38.159Z] info Get product from postgres
+[2021-01-06T16:36:01.520Z] info Get product from postgres
+[2021-01-06T16:38:00.124Z] info Get product from postgres
+[2021-01-07T03:19:13.892Z] info Service running on port 9000
+[2021-01-07T03:19:15.881Z] info Connection to redis OKE
+[2021-01-07T03:19:15.883Z] info Redis connect
+[2021-01-07T03:19:16.803Z] info Database connect
+[2021-01-07T03:27:12.852Z] info Get product from postgres
+[2021-01-07T03:27:37.232Z] info Token created Token created
+[2021-01-07T03:27:37.233Z] info Login was successfull Token created
+[2021-01-07T03:27:37.644Z] info Get data from redis
+[2021-01-07T03:27:38.409Z] info Get data from redis
+[2021-01-07T03:28:59.536Z] info Get product from postgres
+[2021-01-07T03:41:53.714Z] info Get product from postgres
+[2021-01-07T03:45:31.387Z] info Get product from postgres
+[2021-01-07T03:47:08.815Z] info Get product from postgres
+[2021-01-07T03:50:30.330Z] info Get product from postgres
+[2021-01-07T03:50:32.187Z] info Get data from redis
+[2021-01-07T03:50:32.195Z] info Get data from redis
+[2021-01-07T03:51:09.282Z] info Get data from redis
+[2021-01-07T03:51:09.807Z] info Get data from redis
+[2021-01-07T03:51:25.431Z] info Get data from redis
+[2021-01-07T03:51:43.063Z] info Get product from postgres
+[2021-01-07T03:51:55.761Z] info Get data from redis
+[2021-01-07T04:38:01.473Z] info Get product from postgres
+[2021-01-07T04:40:31.836Z] info Get product from postgres
+[2021-01-07T04:51:51.796Z] info Get product from postgres
+[2021-01-07T04:56:50.288Z] info Get product from postgres
+[2021-01-07T04:56:54.052Z] info Order product
+[2021-01-07T04:57:03.548Z] info Order product
+[2021-01-07T07:08:00.950Z] info Get product from postgres
+[2021-01-07T07:10:54.127Z] info Order product
+[2021-01-07T07:10:57.919Z] info Order product
+[2021-01-07T07:15:13.987Z] info Get product from postgres
+[2021-01-07T07:15:17.395Z] info Get data from redis
+[2021-01-07T07:15:56.252Z] info Get data from redis
+[2021-01-07T07:18:27.007Z] info Get product from postgres
+[2021-01-07T07:19:02.327Z] info Order product
+[2021-01-07T07:19:19.998Z] info Order product
+[2021-01-07T07:20:08.381Z] info Get product from postgres
+[2021-01-07T07:20:26.313Z] info Get data from redis
+[2021-01-07T07:21:05.337Z] info Get data from redis
+[2021-01-07T07:21:35.495Z] info Get product from postgres
+[2021-01-07T07:21:35.647Z] info Get data from redis
+[2021-01-07T07:21:43.551Z] info Get data from redis
+[2021-01-07T07:21:43.802Z] info Get data from redis
+[2021-01-07T07:21:51.434Z] info Get data from redis
+[2021-01-07T07:22:11.015Z] info Order product
+[2021-01-07T07:22:14.083Z] info Order product
+[2021-01-07T07:22:17.560Z] info Order product
+[2021-01-07T07:22:37.358Z] info Get product from postgres
+[2021-01-07T07:22:53.124Z] info Get data from redis
+[2021-01-07T07:25:04.025Z] info Get product from postgres
+[2021-01-07T07:25:25.547Z] info Token created Token created
+[2021-01-07T07:25:25.550Z] info Login was successfull Token created
+[2021-01-07T07:25:25.713Z] info Get data from redis
+[2021-01-07T07:25:26.983Z] info Get data from redis
+[2021-01-07T07:28:49.626Z] info Get product from postgres
+[2021-01-07T07:28:53.477Z] info Get data from redis
+[2021-01-07T07:30:28.597Z] info Get product from postgres
+[2021-01-07T07:30:48.360Z] info Get data from redis
+[2021-01-07T07:31:11.966Z] info Get data from redis
+[2021-01-07T07:31:12.393Z] info Get data from redis
+[2021-01-07T07:50:50.146Z] info Get product from postgres
+[2021-01-07T08:06:00.363Z] info Users added
+[2021-01-07T08:06:25.918Z] info Token created Token created
+[2021-01-07T08:06:25.919Z] info Login was successfull Token created
+[2021-01-07T08:06:28.866Z] info Get product from postgres
+[2021-01-07T08:06:29.436Z] info Get data from redis
+[2021-01-07T08:38:53.091Z] info Login failed: check email.
+[2021-01-07T08:39:00.889Z] info Token created Token created
+[2021-01-07T08:39:00.891Z] info Login was successfull Token created
+[2021-01-07T08:39:01.100Z] info Get product from postgres
+[2021-01-07T08:39:03.117Z] info Get data from redis
+[2021-01-07T09:14:34.573Z] info Get product from postgres
+[2021-01-07T09:14:46.176Z] info Get data from redis
+[2021-01-07T09:15:58.054Z] info Get product from postgres
+[2021-01-07T09:17:14.529Z] info Get product from postgres
+[2021-01-07T09:17:24.980Z] info Get data from redis
+[2021-01-07T09:17:33.284Z] info Get data from redis
+[2021-01-07T09:18:13.298Z] info Get data from redis
+[2021-01-07T09:18:42.060Z] info Get product from postgres
+[2021-01-07T09:22:11.396Z] info Get product from postgres
+[2021-01-07T09:25:44.686Z] info Get product from postgres
+[2021-01-07T09:30:37.975Z] info Get product from postgres
+[2021-01-07T09:31:23.397Z] info Get data from redis
+[2021-01-07T09:31:32.364Z] info Get data from redis
+[2021-01-07T09:32:35.483Z] info Get product from postgres
+[2021-01-07T09:32:42.143Z] info Get data from redis
+[2021-01-07T09:33:25.720Z] info Get data from redis
+[2021-01-07T09:33:29.243Z] info Get data from redis
+[2021-01-07T09:34:04.956Z] info Get product from postgres
+[2021-01-07T09:34:04.975Z] info Get data from redis
+[2021-01-07T09:34:08.335Z] info Get data from redis
+[2021-01-07T09:34:08.988Z] info Get data from redis
+[2021-01-07T09:34:23.183Z] info Get data from redis
+[2021-01-07T09:34:25.633Z] info Get data from redis
+[2021-01-07T09:36:05.011Z] info Get product from postgres
+[2021-01-07T09:49:44.433Z] info Get product from postgres
+[2021-01-07T09:50:43.430Z] info Get data from redis
+[2021-01-07T09:55:10.755Z] info Get product from postgres
+[2021-01-07T09:55:21.512Z] info Product was deleted
+[2021-01-07T09:55:26.463Z] info Get data from redis
+[2021-01-07T09:55:39.704Z] info Order product
+[2021-01-07T09:57:46.320Z] info Image was uploaded
+[2021-01-07T09:57:46.885Z] info Image was uploaded
+[2021-01-07T09:57:50.786Z] info Add product was successfull
+[2021-01-07T09:57:50.792Z] info Add product was successfull
+[2021-01-07T09:57:58.814Z] info Get product from postgres
+[2021-01-07T09:58:03.286Z] info Order product
+[2021-01-07T09:58:27.382Z] info Product was deleted
+[2021-01-07T09:58:31.132Z] info Get data from redis
+[2021-01-07T09:58:40.099Z] info Order product
+[2021-01-07T09:59:53.440Z] info Image was uploaded
+[2021-01-07T09:59:53.642Z] info Add product was successfull
+[2021-01-07T09:59:57.551Z] info Get product from postgres
+[2021-01-07T10:00:01.534Z] info Order product
+[2021-01-07T10:00:30.122Z] info Get data from redis
+[2021-01-07T12:15:28.093Z] info Get product from postgres
+[2021-01-07T12:16:22.611Z] info Get data from redis
+[2021-01-07T12:19:35.567Z] info Get product from postgres
+[2021-01-07T12:20:53.510Z] info Get product from postgres
+[2021-01-07T12:40:13.632Z] info Get product from postgres
+[2021-01-07T12:40:32.153Z] info Get data from redis
+[2021-01-07T12:43:11.658Z] info Get product from postgres
+[2021-01-07T12:43:26.241Z] info Get data from redis
+[2021-01-07T12:44:59.629Z] info Get product from postgres
+[2021-01-07T13:20:51.026Z] info Get product from postgres
+[2021-01-07T13:22:21.207Z] info Get product from postgres
+[2021-01-07T13:24:38.865Z] info Get product from postgres
+[2021-01-07T13:24:52.626Z] info Get data from redis
+[2021-01-07T13:25:31.640Z] info Get data from redis
+[2021-01-07T13:25:40.665Z] info Get product from postgres
+[2021-01-07T13:25:42.530Z] info Get data from redis
+[2021-01-07T13:25:47.713Z] info Get data from redis
+[2021-01-07T13:25:50.455Z] info Get data from redis
+[2021-01-07T13:25:51.283Z] info Get data from redis
+[2021-01-07T13:25:51.642Z] info Get data from redis
+[2021-01-07T13:25:58.074Z] info Get data from redis
+[2021-01-07T13:26:06.510Z] info Get data from redis
+[2021-01-07T13:27:25.616Z] info Get product from postgres
+[2021-01-07T13:28:06.506Z] info Get data from redis
+[2021-01-07T13:30:03.923Z] info Get product from postgres
+[2021-01-07T13:30:04.577Z] info Get data from redis
+[2021-01-07T13:31:38.769Z] info Get product from postgres
+[2021-01-07T13:31:40.223Z] info Get data from redis
+[2021-01-07T13:31:59.105Z] info Get data from redis
+[2021-01-07T13:32:00.423Z] info Get data from redis
+[2021-01-07T13:32:41.280Z] info Get product from postgres
+[2021-01-07T13:32:45.018Z] info Get data from redis
+[2021-01-07T13:33:05.772Z] info Get data from redis
+[2021-01-07T13:33:07.221Z] info Get data from redis
+[2021-01-07T13:33:47.634Z] info Get product from postgres
+[2021-01-07T13:34:16.074Z] info Get data from redis
+[2021-01-07T14:09:14.005Z] info Get product from postgres
+[2021-01-07T14:49:56.321Z] info Get product from postgres
+[2021-01-07T14:50:20.986Z] info Get data from redis
+[2021-01-07T14:50:52.902Z] info Get data from redis
+[2021-01-07T14:51:04.155Z] info Get product from postgres
+[2021-01-07T14:51:41.158Z] info Token created Token created
+[2021-01-07T14:51:41.189Z] info Login was successfull Token created
+[2021-01-07T14:51:41.579Z] info Get data from redis
+[2021-01-07T14:51:43.154Z] info Get data from redis
+[2021-01-07T14:52:20.563Z] info Get product from postgres
+[2021-01-07T14:52:27.003Z] info Get data from redis
+[2021-01-07T14:53:41.301Z] info Login failed: check email.
+[2021-01-07T14:53:50.077Z] info Token created Token created
+[2021-01-07T14:53:50.078Z] info Login was successfull Token created
+[2021-01-07T14:53:50.409Z] info Get product from postgres
+[2021-01-07T14:53:53.131Z] info Get data from redis
+[2021-01-07T14:54:18.179Z] info Get data from redis
+[2021-01-07T14:55:07.305Z] info Get product from postgres
+[2021-01-07T14:55:47.776Z] info Token created Token created
+[2021-01-07T14:55:47.777Z] info Login was successfull Token created
+[2021-01-07T14:55:47.962Z] info Get data from redis
+[2021-01-07T14:55:53.083Z] info Get data from redis
+[2021-01-07T15:02:40.740Z] info Get product from postgres
+[2021-01-07T15:03:03.069Z] info Order product
+[2021-01-07T15:13:05.012Z] info Get product from postgres
+[2021-01-07T15:13:35.429Z] info Token created Token created
+[2021-01-07T15:13:35.434Z] info Login was successfull Token created
+[2021-01-07T15:13:35.732Z] info Get data from redis
+[2021-01-07T15:13:39.482Z] info Get data from redis
+[2021-01-07T15:14:58.631Z] info Get product from postgres
+[2021-01-07T15:15:30.343Z] info Get data from redis
+[2021-01-07T15:15:54.480Z] info Get data from redis
+[2021-01-07T15:16:22.212Z] info Get product from postgres
+[2021-01-07T15:16:40.272Z] info Get data from redis
+[2021-01-07T15:56:03.943Z] info Get product from postgres
+[2021-01-07T16:01:33.882Z] info Login failed: check email.
+[2021-01-07T16:01:46.220Z] info Token created Token created
+[2021-01-07T16:01:46.222Z] info Login was successfull Token created
+[2021-01-07T16:01:48.105Z] info Get product from postgres
+[2021-01-07T16:01:49.662Z] info Get data from redis
+[2021-01-07T17:36:57.479Z] info Login failed: check email.
+[2021-01-07T17:37:06.276Z] info Token created Token created
+[2021-01-07T17:37:06.277Z] info Login was successfull Token created
+[2021-01-07T17:37:10.689Z] info Get product from postgres
+[2021-01-07T17:37:13.510Z] info Get data from redis
+[2021-01-07T17:37:59.300Z] info Token created Token created
+[2021-01-07T17:37:59.301Z] info Login was successfull Token created
+[2021-01-07T17:37:59.474Z] info Get data from redis
+[2021-01-07T17:38:02.386Z] info Get data from redis
+[2021-01-07T17:38:20.681Z] info Get product from postgres
+[2021-01-07T23:20:56.524Z] info Service running on port 9000
+[2021-01-07T23:20:59.148Z] info Connection to redis OKE
+[2021-01-07T23:20:59.149Z] info Redis connect
+[2021-01-07T23:21:00.347Z] info Database connect
+[2021-01-08T10:24:29.918Z] info Login failed: check email.
+[2021-01-08T10:25:03.101Z] info Login failed: check email.
+[2021-01-08T10:25:26.574Z] info Login failed: check email.
+[2021-01-08T10:26:13.755Z] info Token created Token created
+[2021-01-08T10:26:13.757Z] info Login was successfull Token created
+[2021-01-08T10:32:18.842Z] info Token created Token created
+[2021-01-08T10:32:18.843Z] info Login was successfull Token created
+[2021-01-08T10:42:43.822Z] info Token created Token created
+[2021-01-08T10:42:43.824Z] info Login was successfull Token created
+[2021-01-08T10:43:58.657Z] info Token created Token created
+[2021-01-08T10:43:58.658Z] info Login was successfull Token created
+[2021-01-08T10:44:51.330Z] info Token created Token created
+[2021-01-08T10:44:51.331Z] info Login was successfull Token created
+[2021-01-08T10:47:23.059Z] info Login failed: check data input.
+[2021-01-08T10:48:31.792Z] info Login failed: check data input.
+[2021-01-08T10:53:06.065Z] info Login failed: check email.
+[2021-01-08T10:56:27.071Z] info Token created Token created
+[2021-01-08T10:56:27.073Z] info Login was successfull Token created
+[2021-01-08T10:57:08.126Z] info Token created Token created
+[2021-01-08T10:57:08.127Z] info Login was successfull Token created
+[2021-01-08T11:09:09.674Z] info Token created Token created
+[2021-01-08T11:09:09.695Z] info Login was successfull Token created
+[2021-01-08T11:11:34.148Z] info Token created Token created
+[2021-01-08T11:11:34.160Z] info Login was successfull Token created
+[2021-01-08T11:13:10.793Z] info Token created Token created
+[2021-01-08T11:13:10.794Z] info Login was successfull Token created
+[2021-01-08T11:15:18.557Z] info Token created Token created
+[2021-01-08T11:15:18.657Z] info Login was successfull Token created
+[2021-01-08T11:17:00.152Z] info Token created Token created
+[2021-01-08T11:17:00.168Z] info Login was successfull Token created
+[2021-01-08T11:17:36.765Z] info Token created Token created
+[2021-01-08T11:17:36.766Z] info Login was successfull Token created
+[2021-01-08T11:20:21.029Z] info Token created Token created
+[2021-01-08T11:20:21.031Z] info Login was successfull Token created
+[2021-01-08T11:25:11.327Z] info Token created Token created
+[2021-01-08T11:25:11.328Z] info Login was successfull Token created
+[2021-01-08T11:26:47.463Z] info Token created Token created
+[2021-01-08T11:26:47.556Z] info Login was successfull Token created
+[2021-01-08T11:30:48.313Z] info Token created Token created
+[2021-01-08T11:30:48.314Z] info Login was successfull Token created
+[2021-01-08T11:33:45.365Z] info Token created Token created
+[2021-01-08T11:33:45.366Z] info Login was successfull Token created
+[2021-01-08T12:17:48.691Z] info Token created Token created
+[2021-01-08T12:17:49.223Z] info Login was successfull Token created
+[2021-01-08T12:22:32.016Z] info Token created Token created
+[2021-01-08T12:22:32.017Z] info Login was successfull Token created
+[2021-01-08T12:26:58.950Z] info Token created Token created
+[2021-01-08T12:26:59.721Z] info Login was successfull Token created
+[2021-01-08T12:28:45.690Z] info Token created Token created
+[2021-01-08T12:28:45.707Z] info Login was successfull Token created
+[2021-01-08T12:28:49.782Z] warn Check token failed jwt malformed
+[2021-01-08T12:30:45.175Z] info Token created Token created
+[2021-01-08T12:30:45.176Z] info Login was successfull Token created
+[2021-01-08T12:30:45.716Z] warn Check token failed jwt malformed
+[2021-01-08T12:33:00.271Z] info Token created Token created
+[2021-01-08T12:33:00.273Z] info Login was successfull Token created
+[2021-01-08T12:33:02.323Z] warn Check token failed jwt malformed
+[2021-01-08T12:40:40.768Z] warn Check token failed jwt malformed
+[2021-01-08T12:43:26.529Z] warn Check token failed jwt malformed
+[2021-01-08T12:43:40.654Z] warn Check token failed jwt malformed
+[2021-01-08T12:43:58.087Z] warn Check token failed jwt malformed
+[2021-01-08T12:44:11.878Z] warn Check token failed jwt malformed
+[2021-01-08T12:49:57.038Z] warn Check token failed jwt malformed
+[2021-01-08T12:51:33.211Z] warn Check token failed jwt malformed
+[2021-01-08T12:52:45.312Z] warn Check token failed jwt malformed
+[2021-01-08T12:54:40.725Z] info Login failed: check email.
+[2021-01-08T12:54:44.412Z] warn Check token failed jwt malformed
+[2021-01-08T12:55:51.637Z] warn Check token failed jwt malformed
+[2021-01-08T12:58:05.280Z] warn Check token failed jwt malformed
+[2021-01-08T12:58:18.815Z] warn Check token failed jwt malformed
+[2021-01-08T12:58:56.565Z] info Token created Token created
+[2021-01-08T12:58:56.566Z] info Login was successfull Token created
+[2021-01-08T12:59:05.559Z] info Get product from postgres
+[2021-01-08T13:00:29.944Z] info Get product from postgres
+[2021-01-08T13:01:13.458Z] info Get data from redis
+[2021-01-08T13:02:59.655Z] info Get product from postgres
+[2021-01-08T13:03:25.141Z] info Get data from redis
+[2021-01-08T13:03:42.861Z] info Get data from redis
+[2021-01-08T13:06:16.567Z] info Get product from postgres
+[2021-01-08T13:06:28.201Z] info Order product
+[2021-01-08T13:06:31.017Z] info Order product
+[2021-01-08T13:06:42.682Z] info Order product
+[2021-01-08T13:09:59.079Z] info Get product from postgres
+[2021-01-08T13:10:13.143Z] info Get data from redis
+[2021-01-08T13:10:43.909Z] info Token created Token created
+[2021-01-08T13:10:43.910Z] info Login was successfull Token created
+[2021-01-08T13:10:44.329Z] info Get data from redis
+[2021-01-08T13:49:28.447Z] info Token created Token created
+[2021-01-08T13:49:28.533Z] info Login was successfull Token created
+[2021-01-08T13:49:34.188Z] info Get product from postgres
+[2021-01-08T13:53:05.566Z] info Get product from postgres
+[2021-01-08T13:59:06.328Z] info Get product from postgres
+[2021-01-08T13:59:13.372Z] info Order product
+[2021-01-08T14:05:36.486Z] info Get product from postgres
+[2021-01-08T14:08:01.813Z] info Get product from postgres
+[2021-01-08T14:08:31.422Z] info Get data from redis
+[2021-01-08T14:10:01.301Z] info Get product from postgres
+[2021-01-08T16:24:07.825Z] info Cannot add users: check email.
+[2021-01-08T16:25:37.539Z] info Cannot add users: check email.
+[2021-01-08T16:32:23.644Z] info Users added
+[2021-01-08T16:39:23.573Z] info Token created Token created
+[2021-01-08T16:39:23.696Z] info Login was successfull Token created
+[2021-01-08T16:39:49.296Z] info Get all users
+[2021-01-08T16:40:25.486Z] info Users was deleted
+[2021-01-08T16:40:32.226Z] info Users was deleted
+[2021-01-08T16:40:36.596Z] info Get all users
+[2021-01-08T16:41:24.223Z] info Users added
+[2021-01-08T16:42:30.944Z] info Get all users
+[2021-01-08T16:42:53.950Z] info Users was deleted
+[2021-01-08T16:42:58.248Z] info Get all users
+[2021-01-08T16:45:02.785Z] info Users added
+[2021-01-08T16:45:19.231Z] info Get all users
+[2021-01-08T16:45:39.295Z] info Users was deleted
+[2021-01-08T16:45:53.936Z] info Get all users
+[2021-01-08T16:49:12.954Z] info Users added
+[2021-01-08T16:53:26.297Z] info Get all users
+[2021-01-08T16:54:51.420Z] info Users was deleted
+[2021-01-08T16:55:04.574Z] info Get all users
+[2021-01-08T16:58:52.738Z] info Users added
+[2021-01-08T17:01:37.105Z] info Get all users
+[2021-01-08T17:03:06.334Z] info Users was deleted
+[2021-01-08T17:03:14.100Z] info Get all users
+[2021-01-08T17:04:26.095Z] info Users added
+[2021-01-08T17:04:44.106Z] info Token created Token created
+[2021-01-08T17:04:44.109Z] info Login was successfull Token created
+[2021-01-08T17:04:52.881Z] info Get product from postgres
+[2021-01-08T17:09:12.818Z] info Get product from postgres
+[2021-01-08T17:10:46.354Z] info Order product
+[2021-01-09T04:53:05.734Z] info Service running on port 9000
+[2021-01-09T04:53:07.081Z] info Connection to redis OKE
+[2021-01-09T04:53:07.084Z] info Redis connect
+[2021-01-09T04:53:10.557Z] info Database connect
+[2021-01-09T04:57:33.817Z] info Get product from postgres
+[2021-01-09T05:45:34.880Z] info Get product from postgres
+[2021-01-09T05:49:57.779Z] info Get product from postgres
+[2021-01-09T05:57:45.757Z] info Get product from postgres
+[2021-01-09T06:01:19.553Z] info Get all users
+[2021-01-09T06:01:49.991Z] info Users was deleted
+[2021-01-09T06:02:15.397Z] info Users added
+[2021-01-09T06:02:30.261Z] info Token created Token created
+[2021-01-09T06:02:30.262Z] info Login was successfull Token created
+[2021-01-09T06:02:30.947Z] info Get product from postgres
+[2021-01-09T06:02:46.506Z] info Users was deleted
+[2021-01-09T06:09:04.379Z] info Users added
+[2021-01-09T06:09:16.336Z] info Token created Token created
+[2021-01-09T06:09:16.337Z] info Login was successfull Token created
+[2021-01-09T06:09:17.790Z] info Get product from postgres
+[2021-01-09T06:14:44.085Z] info Order product
+[2021-01-09T08:28:01.645Z] info Token created Token created
+[2021-01-09T08:28:01.647Z] info Login was successfull Token created
+[2021-01-09T08:28:02.986Z] info Get product from postgres
+[2021-01-09T08:55:00.779Z] info Get product from postgres
+[2021-01-09T08:55:27.593Z] info Get data from redis
+[2021-01-09T08:55:57.825Z] info Get data from redis
+[2021-01-09T08:56:18.777Z] info Get product from postgres
+[2021-01-09T08:57:14.110Z] info Get data from redis
+[2021-01-09T08:57:45.888Z] info Get product from postgres
+[2021-01-09T08:59:00.805Z] info Get product from postgres
+[2021-01-09T08:59:47.738Z] info Get data from redis
+[2021-01-09T09:35:55.050Z] info Get product from postgres
+[2021-01-09T10:35:04.148Z] info Get product from postgres
+[2021-01-09T10:35:15.313Z] info Get data from redis
+[2021-01-09T16:08:59.802Z] info Get product from postgres
+[2021-01-09T16:19:06.340Z] info Token created Token created
+[2021-01-09T16:19:06.363Z] info Login was successfull Token created
+[2021-01-09T16:19:06.872Z] info Get product from postgres
+[2021-01-09T16:23:31.016Z] info Get product from postgres
+[2021-01-09T17:01:09.891Z] info Token created Token created
+[2021-01-09T17:01:09.966Z] info Login was successfull Token created
+[2021-01-09T17:01:18.099Z] info Get product from postgres
+[2021-01-09T17:02:23.130Z] info Get product from postgres
+[2021-01-09T17:03:05.554Z] info Get data from redis
+[2021-01-09T17:03:50.897Z] info Get product from postgres
+[2021-01-09T17:03:50.904Z] info Get product from postgres
+[2021-01-09T18:26:04.693Z] info Token created Token created
+[2021-01-09T18:26:04.743Z] info Login was successfull Token created
+[2021-01-09T18:26:09.299Z] info Get product from postgres
+[2021-01-09T18:28:02.873Z] info Get product from postgres
+[2021-01-09T18:28:33.032Z] info Get data from redis
+[2021-01-09T18:29:21.105Z] info Get product from postgres
+[2021-01-09T18:33:35.909Z] info Get product from postgres
+[2021-01-09T18:35:46.969Z] info Get product from postgres
+[2021-01-09T18:38:53.182Z] info Get product from postgres
+[2021-01-09T18:38:53.289Z] info Get data from redis
+[2021-01-09T18:39:01.038Z] info Get data from redis
+[2021-01-09T18:39:02.365Z] info Get data from redis
+[2021-01-09T18:39:12.428Z] info Get data from redis
+[2021-01-09T18:39:13.138Z] info Get data from redis
+[2021-01-09T18:39:13.296Z] info Get data from redis
+[2021-01-09T18:39:51.470Z] info Get data from redis
+[2021-01-09T18:39:55.558Z] info Order product
+[2021-01-09T18:39:57.125Z] info Order product
+[2021-01-09T18:41:35.942Z] info Get product from postgres
+[2021-01-09T18:41:41.689Z] info Get data from redis
+[2021-01-09T18:41:44.578Z] info Get data from redis
+[2021-01-09T18:41:52.934Z] info Get data from redis
+[2021-01-09T18:41:54.283Z] info Get data from redis
+[2021-01-09T18:42:39.414Z] info Get product from postgres
+[2021-01-09T18:42:40.710Z] info Get data from redis
+[2021-01-09T18:42:41.267Z] info Get data from redis
+[2021-01-09T18:42:45.912Z] info Get data from redis
+[2021-01-09T18:42:46.115Z] info Get data from redis
+[2021-01-09T18:43:55.036Z] info Get product from postgres
+[2021-01-10T06:20:57.974Z] info Service running on port 9000
+[2021-01-10T06:20:59.253Z] info Connection to redis OKE
+[2021-01-10T06:20:59.259Z] info Redis connect
+[2021-01-10T06:21:00.556Z] info Database connect
+[2021-01-10T07:02:21.455Z] info Cannot add users: check email.
+[2021-01-10T07:03:03.891Z] info Token created Token created
+[2021-01-10T07:03:03.892Z] info Login was successfull Token created
+[2021-01-10T07:03:07.450Z] info Get product from postgres
+[2021-01-10T07:03:21.646Z] info Order product
+[2021-01-10T07:03:54.766Z] info Login failed: check password.
+[2021-01-10T07:04:05.021Z] info Token created Token created
+[2021-01-10T07:04:05.022Z] info Login was successfull Token created
+[2021-01-10T07:04:05.585Z] info Get data from redis
+[2021-01-10T07:11:41.013Z] info Get product from postgres
+[2021-01-10T07:14:18.437Z] info Get product from postgres
+[2021-01-10T07:15:40.381Z] info Token created Token created
+[2021-01-10T07:15:40.383Z] info Login was successfull Token created
+[2021-01-10T07:15:40.940Z] info Get product from postgres
+[2021-01-10T07:28:20.467Z] info Token created Token created
+[2021-01-10T07:28:20.469Z] info Login was successfull Token created
+[2021-01-10T07:28:25.062Z] info Get product from postgres
+[2021-01-10T07:28:50.325Z] info Get data from redis
+[2021-01-10T07:29:00.007Z] info Order product
+[2021-01-10T07:30:46.628Z] info Get product from postgres
+[2021-01-10T07:31:08.999Z] info Get data from redis
+[2021-01-10T07:31:10.294Z] info Get data from redis
+[2021-01-10T07:38:29.670Z] info Get product from postgres
+[2021-01-10T07:38:55.735Z] info Get data from redis
+[2021-01-10T07:41:32.173Z] info Get product from postgres
+[2021-01-10T07:44:54.064Z] info Get product from postgres
+[2021-01-10T07:45:04.322Z] info Get data from redis
+[2021-01-10T07:46:22.106Z] info Get product from postgres
+[2021-01-10T07:46:47.072Z] info Get data from redis
+[2021-01-10T07:52:24.809Z] info Get product from postgres
+[2021-01-10T07:52:54.134Z] info Get data from redis
+[2021-01-10T07:54:45.382Z] info Get product from postgres
+[2021-01-10T07:55:04.498Z] info Get data from redis
+[2021-01-10T07:55:34.872Z] info Token created Token created
+[2021-01-10T07:55:34.901Z] info Login was successfull Token created
+[2021-01-10T07:55:35.563Z] info Get data from redis
+[2021-01-10T07:56:55.641Z] info Get product from postgres
+[2021-01-10T07:57:07.333Z] info Get data from redis
+[2021-01-10T07:58:15.454Z] info Get product from postgres
+[2021-01-10T07:58:48.432Z] info Token created Token created
+[2021-01-10T07:58:48.441Z] info Login was successfull Token created
+[2021-01-10T07:58:48.698Z] info Get data from redis
+[2021-01-10T08:00:15.180Z] info Get product from postgres
+[2021-01-10T08:00:16.692Z] info Get data from redis
+[2021-01-10T08:00:28.000Z] info Get data from redis
+[2021-01-10T08:01:14.558Z] info Token created Token created
+[2021-01-10T08:01:14.559Z] info Login was successfull Token created
+[2021-01-10T08:01:14.805Z] info Get data from redis
+[2021-01-10T08:15:35.141Z] info Token created Token created
+[2021-01-10T08:15:35.158Z] info Login was successfull Token created
+[2021-01-10T08:15:36.416Z] info Get product from postgres
+[2021-01-10T08:16:58.200Z] info Get product from postgres
+[2021-01-10T08:17:21.039Z] info Get data from redis
+[2021-01-10T08:26:46.157Z] info Get product from postgres
+[2021-01-10T08:35:24.860Z] info Get product from postgres
+[2021-01-10T08:42:01.464Z] info Get product from postgres
+[2021-01-10T08:42:05.025Z] info Get data from redis
+[2021-01-10T08:42:19.405Z] info Get data from redis
+[2021-01-10T08:44:54.082Z] info Get product from postgres
+[2021-01-10T08:49:35.323Z] info Token created Token created
+[2021-01-10T08:49:35.329Z] info Login was successfull Token created
+[2021-01-10T08:49:38.037Z] info Get product from postgres
+[2021-01-10T08:49:53.266Z] info Get data from redis
+[2021-01-10T08:50:24.497Z] info Get data from redis
+[2021-01-10T08:51:54.483Z] info Get product from postgres
+[2021-01-10T08:53:36.853Z] info Get product from postgres
+[2021-01-10T08:53:58.286Z] info Get data from redis
+[2021-01-10T08:55:23.443Z] info Get product from postgres
+[2021-01-10T08:55:23.447Z] info Get product from postgres
+[2021-01-10T08:56:02.058Z] info Get data from redis
+[2021-01-10T08:56:51.919Z] info Get product from postgres
+[2021-01-10T08:58:07.037Z] info Get product from postgres
+[2021-01-10T09:03:08.011Z] info Get product from postgres
+[2021-01-10T09:03:42.560Z] info Get data from redis
+[2021-01-10T09:05:48.360Z] info Get product from postgres
+[2021-01-10T09:06:16.845Z] info Get data from redis
+[2021-01-10T09:06:29.854Z] info Get data from redis
+[2021-01-10T09:06:55.147Z] info Get product from postgres
+[2021-01-10T09:07:07.766Z] info Get data from redis
+[2021-01-10T09:07:35.024Z] info Get data from redis
+[2021-01-10T09:07:45.160Z] info Get data from redis
+[2021-01-10T09:07:57.793Z] info Get product from postgres
+[2021-01-10T09:09:15.154Z] info Token created Token created
+[2021-01-10T09:09:15.196Z] info Login was successfull Token created
+[2021-01-10T09:13:05.620Z] info Token created Token created
+[2021-01-10T09:13:05.622Z] info Login was successfull Token created
+[2021-01-10T09:15:35.401Z] info Token created Token created
+[2021-01-10T09:15:35.402Z] info Login was successfull Token created
+[2021-01-10T09:21:42.148Z] info Login failed: check password.
+[2021-01-10T09:21:55.358Z] info Token created Token created
+[2021-01-10T09:21:55.398Z] info Login was successfull Token created
+[2021-01-10T09:22:45.653Z] info Token created Token created
+[2021-01-10T09:22:45.654Z] info Login was successfull Token created
+[2021-01-10T09:24:47.243Z] info Token created Token created
+[2021-01-10T09:24:47.267Z] info Login was successfull Token created
+[2021-01-10T09:24:50.832Z] info Get product from postgres
+[2021-01-10T09:25:24.421Z] info Token created Token created
+[2021-01-10T09:25:24.422Z] info Login was successfull Token created
+[2021-01-10T09:25:24.937Z] info Get data from redis
+[2021-01-10T09:26:09.829Z] info Get product from postgres
+[2021-01-10T09:26:24.530Z] info Get data from redis
+[2021-01-10T09:26:36.940Z] info Get data from redis
+[2021-01-10T09:26:41.943Z] info Order product
+[2021-01-10T09:27:06.165Z] info Get data from redis
+[2021-01-10T09:45:00.976Z] info Get product from postgres
+[2021-01-10T09:45:09.019Z] info Get data from redis
+[2021-01-10T09:46:42.504Z] info Get product from postgres
+[2021-01-10T09:47:17.602Z] info Get data from redis
+[2021-01-10T09:47:24.359Z] info Get data from redis
+[2021-01-10T09:47:38.340Z] info Get data from redis
+[2021-01-10T09:50:05.732Z] info Users added
+[2021-01-10T09:50:23.357Z] info Token created Token created
+[2021-01-10T09:50:23.377Z] info Login was successfull Token created
+[2021-01-10T09:50:24.105Z] info Get product from postgres
+[2021-01-10T09:54:56.301Z] info Get product from postgres
+[2021-01-10T09:59:34.779Z] info Get product from postgres
+[2021-01-10T09:59:51.548Z] info Token created Token created
+[2021-01-10T09:59:51.565Z] info Login was successfull Token created
+[2021-01-10T09:59:53.200Z] info Get data from redis
+[2021-01-10T10:00:23.620Z] info Get data from redis
+[2021-01-10T10:01:15.482Z] info Get product from postgres
+[2021-01-10T10:01:37.190Z] info Token created Token created
+[2021-01-10T10:01:37.191Z] info Login was successfull Token created
+[2021-01-10T10:01:37.883Z] info Get data from redis
+[2021-01-10T10:02:02.672Z] info Get data from redis
+[2021-01-10T10:02:34.025Z] info Get product from postgres
+[2021-01-10T10:04:25.590Z] info Get product from postgres
+[2021-01-10T10:11:32.531Z] info Token created Token created
+[2021-01-10T10:11:32.548Z] info Login was successfull Token created
+[2021-01-10T10:11:33.392Z] info Get product from postgres
+[2021-01-10T10:12:24.881Z] info Get data from redis
+[2021-01-10T10:12:38.825Z] info Get product from postgres
+[2021-01-10T10:13:08.777Z] info Get data from redis
+[2021-01-10T10:14:18.743Z] info Get product from postgres
+[2021-01-10T10:22:07.438Z] info Get product from postgres
+[2021-01-10T10:22:15.265Z] info Get data from redis
+[2021-01-10T10:22:27.069Z] info Get data from redis
+[2021-01-10T10:23:33.487Z] info Get product from postgres
+[2021-01-10T10:36:16.473Z] info Get product from postgres
+[2021-01-10T10:36:16.483Z] info Get data from redis
+[2021-01-10T10:37:02.502Z] info Get data from redis
+[2021-01-10T10:38:17.819Z] info Get product from postgres
+[2021-01-10T10:38:58.725Z] info Get data from redis
+[2021-01-10T10:40:58.682Z] info Get product from postgres
+[2021-01-10T10:52:56.455Z] info Get product from postgres
+[2021-01-10T10:53:33.428Z] info Get data from redis
+[2021-01-10T10:54:25.532Z] info Get product from postgres
+[2021-01-10T10:54:59.863Z] info Get data from redis
+[2021-01-10T10:59:47.898Z] info Get product from postgres
+[2021-01-10T10:59:48.064Z] info Get data from redis
+[2021-01-10T11:02:44.239Z] info Get product from postgres
+[2021-01-10T11:13:25.658Z] info Get product from postgres
+[2021-01-10T11:18:51.229Z] info Get product from postgres
+[2021-01-10T11:25:12.642Z] info Order product
+[2021-01-10T12:10:18.638Z] info Get product from postgres
+[2021-01-10T12:16:10.099Z] info Get product from postgres
+[2021-01-10T12:17:04.871Z] info Get data from redis
+[2021-01-10T12:28:59.341Z] info Get product from postgres
+[2021-01-10T12:31:10.253Z] info Get product from postgres
+[2021-01-10T12:33:45.223Z] info Get product from postgres
+[2021-01-10T13:04:19.439Z] info Get product from postgres
+[2021-01-10T13:04:39.454Z] info Get data from redis
+[2021-01-10T13:05:13.101Z] info Get data from redis
+[2021-01-10T13:06:33.955Z] info Get product from postgres
+[2021-01-10T13:07:31.707Z] info Get data from redis
+[2021-01-10T13:07:51.417Z] info Get product from postgres
+[2021-01-10T13:08:24.912Z] info Get data from redis
+[2021-01-10T13:09:12.964Z] info Get product from postgres
+[2021-01-10T13:10:55.489Z] info Get product from postgres
+[2021-01-10T13:12:24.140Z] info Get product from postgres
+[2021-01-10T13:13:46.732Z] info Get product from postgres
+[2021-01-10T13:17:35.772Z] info Get product from postgres
+[2021-01-10T13:17:51.907Z] info Get data from redis
+[2021-01-10T13:17:59.551Z] info Get data from redis
+[2021-01-10T13:19:33.562Z] info Get product from postgres
+[2021-01-10T13:21:12.470Z] info Get product from postgres
+[2021-01-10T13:21:35.110Z] info Get data from redis
+[2021-01-10T13:22:37.795Z] info Get product from postgres
+[2021-01-10T13:27:53.823Z] info Get product from postgres
+[2021-01-10T13:30:54.186Z] info Get product from postgres
+[2021-01-10T13:31:29.463Z] info Get data from redis
+[2021-01-10T13:31:49.679Z] info Get data from redis
+[2021-01-10T13:34:29.170Z] info Get product from postgres
+[2021-01-10T13:35:51.975Z] info Get product from postgres
+[2021-01-10T13:36:47.683Z] info Get data from redis
+[2021-01-10T13:37:22.597Z] info Get product from postgres
+[2021-01-10T13:37:38.243Z] info Get data from redis
+[2021-01-10T13:38:28.551Z] info Token created Token created
+[2021-01-10T13:38:28.554Z] info Login was successfull Token created
+[2021-01-10T13:38:29.262Z] info Get product from postgres
+[2021-01-10T13:38:47.728Z] info Get data from redis
+[2021-01-10T15:11:05.961Z] info Get product from postgres
+[2021-01-10T18:27:02.275Z] info Login failed: check data input.
+[2021-01-10T18:27:08.658Z] warn Check token failed jwt malformed
+[2021-01-10T18:27:36.144Z] info Login failed: check data input.
+[2021-01-10T18:27:38.380Z] warn Check token failed jwt malformed
+[2021-01-10T18:34:04.186Z] warn Check token failed jwt malformed
+[2021-01-10T18:34:50.722Z] warn Check token failed jwt malformed
+[2021-01-10T18:35:31.905Z] info Login failed: check data input.
+[2021-01-10T18:36:04.072Z] info Token created Token created
+[2021-01-10T18:36:04.073Z] info Login was successfull Token created
+[2021-01-10T18:36:47.588Z] info Token created Token created
+[2021-01-10T18:36:47.589Z] info Login was successfull Token created
+[2021-01-10T18:36:57.007Z] info Token created Token created
+[2021-01-10T18:36:57.009Z] info Login was successfull Token created
+[2021-01-10T18:56:23.595Z] info Token created Token created
+[2021-01-10T18:56:23.622Z] info Login was successfull Token created
+[2021-01-10T18:58:12.307Z] info Get product from postgres
+[2021-01-10T18:58:41.523Z] info Get data from redis
+[2021-01-10T18:58:54.094Z] info Get data from redis
+[2021-01-10T19:03:24.346Z] info Token created Token created
+[2021-01-10T19:03:24.418Z] info Login was successfull Token created
+[2021-01-10T19:03:28.155Z] info Get product from postgres
+[2021-01-10T19:04:15.008Z] info Login failed: check email.
+[2021-01-10T19:04:18.986Z] warn Check token failed jwt malformed
+[2021-01-10T19:04:48.112Z] info Login failed: check data input.
+[2021-01-10T19:04:50.995Z] warn Check token failed jwt malformed
+[2021-01-10T19:06:09.566Z] info Login failed: check data input.
+[2021-01-10T19:06:12.610Z] warn Check token failed jwt malformed
+[2021-01-10T19:06:34.617Z] info Login failed: check data input.
+[2021-01-10T19:06:37.086Z] warn Check token failed jwt malformed
+[2021-01-10T19:07:03.654Z] info Login failed: check data input.
+[2021-01-10T19:07:06.061Z] warn Check token failed jwt malformed
+[2021-01-10T19:09:01.343Z] info Login failed: check data input.
+[2021-01-10T19:09:04.003Z] warn Check token failed jwt malformed
+[2021-01-10T19:09:27.636Z] info Login failed: check data input.
+[2021-01-10T19:09:29.795Z] warn Check token failed jwt malformed
+[2021-01-10T19:11:14.405Z] info Login failed: check data input.
+[2021-01-10T19:11:16.929Z] warn Check token failed jwt malformed
+[2021-01-10T19:13:45.001Z] info Login failed: check data input.
+[2021-01-10T19:14:26.372Z] warn Check token failed jwt malformed
+[2021-01-10T19:14:51.802Z] info Login failed: check data input.
+[2021-01-10T19:15:24.462Z] warn Check token failed jwt malformed
+[2021-01-10T19:16:41.438Z] info Login failed: check data input.
+[2021-01-10T19:16:54.924Z] warn Check token failed jwt malformed
+[2021-01-10T19:19:52.394Z] info Login failed: check data input.
+[2021-01-10T19:19:57.253Z] warn Check token failed jwt malformed
+[2021-01-10T19:20:30.387Z] info Token created Token created
+[2021-01-10T19:20:30.388Z] info Login was successfull Token created
+[2021-01-10T19:20:33.672Z] info Get product from postgres
+[2021-01-10T19:20:53.777Z] info Get data from redis
+[2021-01-10T19:21:06.803Z] info Get data from redis
+[2021-01-10T19:22:42.925Z] info Login failed: check data input.
+[2021-01-10T19:23:52.923Z] warn Check token failed jwt malformed
+[2021-01-10T19:24:08.225Z] info Login failed: check data input.
+[2021-01-10T19:24:30.264Z] info Login failed: check email.
+[2021-01-10T19:25:16.321Z] info Token created Token created
+[2021-01-10T19:25:16.359Z] info Login was successfull Token created
+[2021-01-10T19:25:17.604Z] info Get product from postgres
+[2021-01-10T19:25:32.887Z] info Get data from redis
+[2021-01-10T19:26:27.567Z] info Token created Token created
+[2021-01-10T19:26:27.570Z] info Login was successfull Token created
+[2021-01-10T19:26:28.213Z] info Get product from postgres
+[2021-01-10T19:26:40.133Z] info Get data from redis
+[2021-01-11T05:01:11.151Z] info Service running on port 9000
+[2021-01-11T05:01:13.332Z] info Connection to redis OKE
+[2021-01-11T05:01:13.334Z] info Redis connect
+[2021-01-11T05:01:14.397Z] info Database connect
+[2021-01-11T05:07:09.289Z] info Login failed: check data input.
+[2021-01-11T05:08:32.355Z] info Token created Token created
+[2021-01-11T05:08:32.356Z] info Login was successfull Token created
+[2021-01-11T05:08:38.913Z] info Get product from postgres
+[2021-01-11T05:33:39.541Z] info Get product from postgres
+[2021-01-11T05:33:49.996Z] info Get data from redis
+[2021-01-11T05:33:56.201Z] info Get data from redis
+[2021-01-11T05:34:41.210Z] info Get product from postgres
+[2021-01-11T05:35:08.796Z] info Get data from redis
+[2021-01-11T05:51:40.104Z] info Order product
+[2021-01-11T05:52:39.031Z] info Get product from postgres
+[2021-01-11T05:54:45.197Z] info Get product from postgres
+[2021-01-11T06:06:45.466Z] info Get product from postgres
+[2021-01-11T06:08:04.957Z] info Get product from postgres
+[2021-01-11T06:08:47.031Z] info Get data from redis
+[2021-01-11T06:08:56.628Z] info Get data from redis
+[2021-01-11T06:10:21.440Z] info Get product from postgres
+[2021-01-11T06:11:30.035Z] warn Check token failed jwt malformed
+[2021-01-11T06:12:10.285Z] info Get product from postgres
+[2021-01-11T06:12:24.793Z] info Get data from redis
+[2021-01-11T06:12:34.725Z] info Get data from redis
+[2021-01-11T06:12:44.720Z] info Order product
+[2021-01-11T06:13:38.511Z] info Get product from postgres
+[2021-01-11T06:14:11.210Z] info Get data from redis
+[2021-01-11T06:15:45.486Z] info Get product from postgres
+[2021-01-11T06:15:56.414Z] info Get data from redis
+[2021-01-11T06:16:08.069Z] info Get data from redis
+[2021-01-11T06:16:42.099Z] info Get data from redis
+[2021-01-11T06:31:36.758Z] info Login failed: check data input.
+[2021-01-11T06:31:55.038Z] info Token created Token created
+[2021-01-11T06:31:55.040Z] info Login was successfull Token created
+[2021-01-11T06:40:53.675Z] info Get product from postgres
+[2021-01-11T06:41:31.883Z] info Get data from redis
+[2021-01-11T06:43:41.738Z] info Get product from postgres
+[2021-01-11T06:44:49.576Z] info Get product from postgres
+[2021-01-11T06:49:01.272Z] info Get product from postgres
+[2021-01-11T06:50:54.269Z] info Get product from postgres
+[2021-01-11T06:53:16.269Z] info Get product from postgres
+[2021-01-11T06:57:49.308Z] info Order product
+[2021-01-11T06:58:16.008Z] info Get product from postgres
+[2021-01-11T07:08:19.139Z] info Get product from postgres
+[2021-01-11T07:08:50.698Z] info Get data from redis
+[2021-01-11T07:11:52.202Z] info Get product from postgres
+[2021-01-11T07:12:38.697Z] info Get data from redis
+[2021-01-11T07:26:17.365Z] info Get product from postgres
+[2021-01-11T07:27:08.897Z] info Get data from redis
+[2021-01-11T07:29:46.887Z] info Get product from postgres
+[2021-01-11T07:32:28.412Z] info Get product from postgres
+[2021-01-11T11:53:34.939Z] info Get product from postgres
+[2021-01-11T11:55:02.589Z] info Get product from postgres
+[2021-01-11T12:30:03.737Z] info Get product from postgres
+[2021-01-11T12:31:29.831Z] info Get product from postgres
+[2021-01-11T12:38:22.719Z] info Get product from postgres
+[2021-01-11T12:38:38.265Z] info Get data from redis
+[2021-01-11T12:38:43.939Z] info Get data from redis
+[2021-01-11T12:38:49.431Z] info Get data from redis
+[2021-01-11T12:38:50.721Z] info Get data from redis
+[2021-01-11T12:39:13.604Z] info Get data from redis
+[2021-01-11T12:39:16.734Z] info Get data from redis
+[2021-01-11T12:39:19.707Z] info Get data from redis
+[2021-01-11T12:39:26.108Z] info Get product from postgres
+[2021-01-11T12:40:27.658Z] info Get product from postgres
+[2021-01-11T12:42:06.004Z] info Get product from postgres
+[2021-01-11T12:46:36.802Z] info Get product from postgres
+[2021-01-11T12:46:36.968Z] info Get data from redis
+[2021-01-11T12:51:34.643Z] info Get product from postgres
+[2021-01-11T12:51:48.483Z] info Get data from redis
+[2021-01-11T13:09:51.240Z] info Get product from postgres
+[2021-01-11T13:10:40.712Z] info Get data from redis
+[2021-01-11T13:11:26.131Z] info Order product
+[2021-01-11T13:12:23.906Z] info Get product from postgres
+[2021-01-11T14:49:42.948Z] info Order product
+[2021-01-11T14:50:03.582Z] info Get product from postgres
+[2021-01-11T14:50:22.130Z] info Get data from redis
+[2021-01-11T14:51:24.909Z] info Login failed: check password.
+[2021-01-11T14:51:39.471Z] info Token created Token created
+[2021-01-11T14:51:39.473Z] info Login was successfull Token created
+[2021-01-11T14:53:52.792Z] info Users added
+[2021-01-11T14:54:19.893Z] info Token created Token created
+[2021-01-11T14:54:19.894Z] info Login was successfull Token created
+[2021-01-11T14:55:25.849Z] info Token created Token created
+[2021-01-11T14:55:25.896Z] info Login was successfull Token created
+[2021-01-11T15:00:32.961Z] info Get product from postgres
+[2021-01-11T15:00:50.221Z] info Get data from redis
+[2021-01-11T15:01:41.683Z] info Get product from postgres
+[2021-01-11T15:02:44.494Z] info Token created Token created
+[2021-01-11T15:02:44.494Z] info Login was successfull Token created
+[2021-01-11T15:03:13.787Z] info Get product from postgres
+[2021-01-11T15:03:47.378Z] info Token created Token created
+[2021-01-11T15:03:47.379Z] info Login was successfull Token created
+[2021-01-11T15:04:01.706Z] info Get data from redis
+[2021-01-11T15:04:51.226Z] info Token created Token created
+[2021-01-11T15:04:51.226Z] info Login was successfull Token created
+[2021-01-11T15:05:45.769Z] info Token created Token created
+[2021-01-11T15:05:45.770Z] info Login was successfull Token created
+[2021-01-11T15:05:48.647Z] info Get product from postgres
+[2021-01-11T15:06:29.528Z] info Token created Token created
+[2021-01-11T15:06:29.528Z] info Login was successfull Token created
+[2021-01-11T15:06:31.907Z] info Get data from redis
+[2021-01-11T15:07:14.588Z] info Token created Token created
+[2021-01-11T15:07:14.603Z] info Login was successfull Token created
+[2021-01-11T15:07:17.435Z] info Get product from postgres
+[2021-01-11T15:07:40.027Z] info Get data from redis
+[2021-01-11T15:08:02.414Z] info Get data from redis
+[2021-01-11T15:08:12.216Z] info Order product
+[2021-01-11T15:29:22.611Z] info Service running on port 9000
+[2021-01-11T15:29:22.844Z] info Connection to redis OKE
+[2021-01-11T15:29:22.853Z] info Redis connect
+[2021-01-11T15:29:22.994Z] info Database connect
+[2021-01-11T15:34:56.994Z] info Token created Token created
+[2021-01-11T15:34:56.995Z] info Login was successfull Token created
+[2021-01-11T15:34:59.808Z] info Get product from postgres
+[2021-01-11T15:35:29.685Z] info Order product
+[2021-01-12T02:18:41.918Z] info Service running on port 9000
+[2021-01-12T02:18:45.283Z] info Connection to redis OKE
+[2021-01-12T02:18:45.288Z] info Redis connect
+[2021-01-12T02:18:47.634Z] info Database connect
+[2021-01-12T02:26:53.117Z] info Get product from postgres
+[2021-01-12T02:39:40.983Z] info Token created Token created
+[2021-01-12T02:39:40.998Z] info Login was successfull Token created
+[2021-01-12T02:39:47.159Z] info Get product from postgres
+[2021-01-12T02:40:07.420Z] info Order product
+[2021-01-12T02:40:37.020Z] info Login failed: check password.
+[2021-01-12T02:41:29.407Z] info Token created Token created
+[2021-01-12T02:41:29.408Z] info Login was successfull Token created
+[2021-01-12T02:41:38.758Z] info Get product from postgres
+[2021-01-12T02:42:13.243Z] info Get data from redis
+[2021-01-12T02:42:43.075Z] info Get product from postgres
+[2021-01-12T02:43:01.493Z] info Get data from redis
+[2021-01-12T02:43:30.096Z] info Get data from redis
+[2021-01-12T02:44:58.635Z] info Order product
+[2021-01-12T02:45:40.224Z] info Get product from postgres
+[2021-01-12T02:45:48.525Z] info Get data from redis
+[2021-01-12T02:46:05.860Z] info Get data from redis
+[2021-01-12T03:01:44.153Z] info Token created Token created
+[2021-01-12T03:01:44.155Z] info Login was successfull Token created
+[2021-01-12T03:01:49.423Z] info Get product from postgres
+[2021-01-12T03:02:41.644Z] info Token created Token created
+[2021-01-12T03:02:41.645Z] info Login was successfull Token created
+[2021-01-12T03:02:44.394Z] info Get data from redis
+[2021-01-12T03:03:33.209Z] info Get product from postgres
+[2021-01-12T03:03:47.224Z] info Get data from redis
+[2021-01-12T03:04:00.786Z] info Get data from redis
+[2021-01-12T03:04:11.970Z] info Get data from redis
+[2021-01-15T09:34:18.355Z] info Service running on port 9000
+[2021-01-15T09:34:23.574Z] info Connection to redis OKE
+[2021-01-15T09:34:23.681Z] info Redis connect
+[2021-01-15T09:34:23.820Z] info Database connect
+[2021-01-15T11:05:08.408Z] info Token created Token created
+[2021-01-15T11:05:08.461Z] info Login was successfull Token created
+[2021-01-15T11:05:14.063Z] info Get product from postgres
+[2021-01-15T11:05:54.294Z] info Get data from redis
+[2021-01-15T11:08:36.890Z] info Token created Token created
+[2021-01-15T11:08:36.891Z] info Login was successfull Token created
+[2021-01-15T11:08:44.383Z] info Get product from postgres
+[2021-01-15T11:09:50.000Z] info Get product from postgres
+[2021-01-15T11:10:17.571Z] info Get data from redis
+[2021-01-15T11:10:22.587Z] info Order product
+[2021-01-15T11:10:30.356Z] info Order product
+[2021-01-15T11:10:32.962Z] info Order product
+[2021-01-15T13:01:37.353Z] info Token created Token created
+[2021-01-15T13:01:37.414Z] info Login was successfull Token created
+[2021-01-15T13:01:44.084Z] info Get product from postgres
+[2021-01-15T13:02:12.210Z] info Get data from redis
+[2021-01-15T13:02:15.477Z] info Order product
+[2021-01-15T13:55:22.824Z] info Service running on port 9000
+[2021-01-15T13:55:23.404Z] info Connection to redis OKE
+[2021-01-15T13:55:23.408Z] info Redis connect
+[2021-01-15T13:55:24.004Z] info Database connect
+[2021-01-15T14:46:06.856Z] info Service running on port 9000
+[2021-01-15T14:46:07.621Z] info Connection to redis OKE
+[2021-01-15T14:46:07.622Z] info Redis connect
+[2021-01-16T11:35:46.986Z] info Service running on port 9000
+[2021-01-16T11:35:48.180Z] info Connection to redis OKE
+[2021-01-16T11:35:48.181Z] info Redis connect
+[2021-01-16T15:41:46.813Z] info Invalid token: login first
+[2021-01-16T15:43:31.395Z] warn Cannot add users Cannot read property 'length' of undefined
+[2021-01-16T15:52:14.046Z] info Service running on port 9000
+[2021-01-16T15:52:14.427Z] info Connection to redis OKE
+[2021-01-16T15:52:14.430Z] info Redis connect
+[2021-01-16T15:52:37.448Z] warn Cannot add users Cannot read property 'length' of undefined
+[2021-01-16T15:57:05.084Z] info Service running on port 9000
+[2021-01-16T15:57:05.149Z] info Connection to redis OKE
+[2021-01-16T15:57:05.155Z] info Redis connect
+[2021-01-16T15:57:18.220Z] info Users added
+[2021-01-16T15:57:32.444Z] info Invalid token: login first
+[2021-01-16T16:05:35.028Z] info Invalid token: login first
+[2021-01-16T16:06:15.364Z] warn Failed get email users relation "Users" does not exist
+[2021-01-16T16:06:15.365Z] warn Cannot add users relation "Users" does not exist
+[2021-01-16T16:08:00.580Z] info Service running on port 9000
+[2021-01-16T16:08:00.640Z] info Connection to redis OKE
+[2021-01-16T16:08:00.641Z] info Redis connect
+[2021-01-16T16:08:14.651Z] info Invalid token: login first
+[2021-01-16T16:08:22.778Z] warn Failed get email users relation "Users" does not exist
+[2021-01-16T16:08:22.779Z] warn Cannot add users relation "Users" does not exist
+[2021-01-16T16:10:43.489Z] info Service running on port 9000
+[2021-01-16T16:10:43.545Z] info Connection to redis OKE
+[2021-01-16T16:10:43.551Z] info Redis connect
+[2021-01-16T16:10:59.497Z] info Invalid token: login first
+[2021-01-16T16:11:16.079Z] warn Failed get email users relation "Users" does not exist
+[2021-01-16T16:11:16.082Z] warn Cannot add users relation "Users" does not exist
+[2021-01-16T16:12:02.668Z] info Service running on port 9000
+[2021-01-16T16:12:02.746Z] info Connection to redis OKE
+[2021-01-16T16:12:02.750Z] info Redis connect
+[2021-01-16T16:12:13.931Z] info Invalid token: login first
+[2021-01-16T16:12:51.074Z] info Service running on port 9000
+[2021-01-16T16:12:51.142Z] info Connection to redis OKE
+[2021-01-16T16:12:51.149Z] info Redis connect
+[2021-01-16T16:13:00.159Z] warn Failed get email users relation "Users" does not exist
+[2021-01-16T16:13:00.249Z] warn Cannot add users relation "Users" does not exist
+[2021-01-16T16:15:17.114Z] info Invalid token: login first
+[2021-01-16T16:15:22.068Z] info Users added
+[2021-01-16T16:16:03.385Z] info Users added
+[2021-01-16T16:16:52.225Z] info Users added
+[2021-01-16T16:18:41.206Z] info Service running on port 9000
+[2021-01-16T16:18:41.273Z] info Connection to redis OKE
+[2021-01-16T16:18:41.281Z] info Redis connect
+[2021-01-16T16:18:54.654Z] info Users added
+[2021-01-16T16:20:40.903Z] info Service running on port 9000
+[2021-01-16T16:20:40.982Z] info Connection to redis OKE
+[2021-01-16T16:20:40.987Z] info Redis connect
+[2021-01-16T16:20:53.148Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:20:53.151Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:22:56.965Z] info Service running on port 9000
+[2021-01-16T16:22:57.030Z] info Connection to redis OKE
+[2021-01-16T16:22:57.039Z] info Redis connect
+[2021-01-16T16:23:09.187Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:23:09.199Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:25:18.500Z] info Service running on port 9000
+[2021-01-16T16:25:18.571Z] info Connection to redis OKE
+[2021-01-16T16:25:18.576Z] info Redis connect
+[2021-01-16T16:25:26.668Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:25:26.669Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:27:50.925Z] info Users added
+[2021-01-16T16:28:05.186Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:28:05.187Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:31:55.655Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:31:55.656Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:32:37.269Z] info Cannot add users: check data input.
+[2021-01-16T16:32:58.055Z] info Users added
+[2021-01-16T16:33:09.834Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:33:09.857Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:39:09.844Z] info Service running on port 9000
+[2021-01-16T16:39:10.171Z] info Connection to redis OKE
+[2021-01-16T16:39:10.174Z] info Redis connect
+[2021-01-16T16:40:28.824Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:40:28.825Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:41:59.613Z] info Service running on port 9000
+[2021-01-16T16:41:59.855Z] info Connection to redis OKE
+[2021-01-16T16:41:59.859Z] info Redis connect
+[2021-01-16T16:42:22.177Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:42:22.199Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:45:25.029Z] info Service running on port 9000
+[2021-01-16T16:45:25.106Z] info Connection to redis OKE
+[2021-01-16T16:45:25.107Z] info Redis connect
+[2021-01-16T16:46:00.594Z] warn Failed get all users Cannot read property 'dataValues' of undefined
+[2021-01-16T16:46:00.595Z] warn Cannot get users Cannot read property 'dataValues' of undefined
+[2021-01-16T16:47:34.786Z] info Service running on port 9000
+[2021-01-16T16:47:34.866Z] info Connection to redis OKE
+[2021-01-16T16:47:34.872Z] info Redis connect
+[2021-01-16T16:47:43.154Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:47:43.155Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:49:07.233Z] info Service running on port 9000
+[2021-01-16T16:49:07.293Z] info Connection to redis OKE
+[2021-01-16T16:49:07.297Z] info Redis connect
+[2021-01-16T16:49:16.310Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:49:16.311Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:50:07.348Z] info Service running on port 9000
+[2021-01-16T16:50:07.413Z] info Connection to redis OKE
+[2021-01-16T16:50:07.433Z] info Redis connect
+[2021-01-16T16:50:15.634Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:50:15.636Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:51:03.438Z] info Service running on port 9000
+[2021-01-16T16:51:03.531Z] info Connection to redis OKE
+[2021-01-16T16:51:03.542Z] info Redis connect
+[2021-01-16T16:51:12.714Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:51:12.715Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:52:12.490Z] info Service running on port 9000
+[2021-01-16T16:52:12.556Z] info Connection to redis OKE
+[2021-01-16T16:52:12.573Z] info Redis connect
+[2021-01-16T16:52:19.859Z] warn Failed get all users Cannot read property 'dataValues' of undefined
+[2021-01-16T16:52:19.860Z] warn Cannot get users Cannot read property 'dataValues' of undefined
+[2021-01-16T16:53:06.879Z] info Service running on port 9000
+[2021-01-16T16:53:06.948Z] info Connection to redis OKE
+[2021-01-16T16:53:06.949Z] info Redis connect
+[2021-01-16T16:53:13.561Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:53:13.564Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:54:06.049Z] info Service running on port 9000
+[2021-01-16T16:54:06.118Z] info Connection to redis OKE
+[2021-01-16T16:54:06.133Z] info Redis connect
+[2021-01-16T16:54:12.322Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:54:12.323Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:56:37.935Z] info Service running on port 9000
+[2021-01-16T16:56:38.015Z] info Connection to redis OKE
+[2021-01-16T16:56:38.026Z] info Redis connect
+[2021-01-16T16:56:46.989Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:56:46.999Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T16:59:36.396Z] info Service running on port 9000
+[2021-01-16T16:59:36.473Z] info Connection to redis OKE
+[2021-01-16T16:59:36.488Z] info Redis connect
+[2021-01-16T16:59:45.491Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T16:59:45.495Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T17:03:20.130Z] info Service running on port 9000
+[2021-01-16T17:03:20.221Z] info Connection to redis OKE
+[2021-01-16T17:03:20.223Z] info Redis connect
+[2021-01-16T17:03:30.851Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T17:03:30.853Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T17:05:49.658Z] info Service running on port 9000
+[2021-01-16T17:05:49.679Z] info Connection to redis OKE
+[2021-01-16T17:05:49.696Z] info Redis connect
+[2021-01-16T17:05:55.280Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T17:05:55.281Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T17:07:03.038Z] info Service running on port 9000
+[2021-01-16T17:07:03.106Z] info Connection to redis OKE
+[2021-01-16T17:07:03.116Z] info Redis connect
+[2021-01-16T17:07:11.225Z] warn Failed get all users Cannot read property 'length' of undefined
+[2021-01-16T17:07:11.226Z] warn Cannot get users Cannot read property 'length' of undefined
+[2021-01-16T17:08:13.492Z] info Service running on port 9000
+[2021-01-16T17:08:13.558Z] info Connection to redis OKE
+[2021-01-16T17:08:13.568Z] info Redis connect
+[2021-01-16T17:08:22.371Z] info Get all users
+[2021-01-16T17:09:21.785Z] info Service running on port 9000
+[2021-01-16T17:09:21.850Z] info Connection to redis OKE
+[2021-01-16T17:09:21.861Z] info Redis connect
+[2021-01-16T17:09:28.594Z] info Get all users
+[2021-01-16T17:11:10.878Z] info Service running on port 9000
+[2021-01-16T17:11:10.939Z] info Connection to redis OKE
+[2021-01-16T17:11:10.945Z] info Redis connect
+[2021-01-16T17:12:06.706Z] info Service running on port 9000
+[2021-01-16T17:12:06.776Z] info Connection to redis OKE
+[2021-01-16T17:12:06.790Z] info Redis connect
+[2021-01-16T17:12:16.053Z] info Get all users
+[2021-01-16T17:12:37.804Z] info Users added
+[2021-01-16T17:12:52.451Z] info Get all users
+[2021-01-16T17:14:33.667Z] info Service running on port 9000
+[2021-01-16T17:14:33.733Z] info Connection to redis OKE
+[2021-01-16T17:14:33.741Z] info Redis connect
+[2021-01-16T17:14:43.020Z] info Get all users
+[2021-01-16T17:15:12.607Z] info Users added
+[2021-01-16T17:16:05.520Z] info Service running on port 9000
+[2021-01-16T17:16:05.586Z] info Connection to redis OKE
+[2021-01-16T17:16:05.593Z] info Redis connect
+[2021-01-16T17:16:17.384Z] info Users added
+[2021-01-16T17:17:40.856Z] info Service running on port 9000
+[2021-01-16T17:17:40.921Z] info Connection to redis OKE
+[2021-01-16T17:17:40.927Z] info Redis connect
+[2021-01-16T17:17:50.171Z] info Users added
+[2021-01-16T17:19:23.193Z] info Service running on port 9000
+[2021-01-16T17:19:23.258Z] info Connection to redis OKE
+[2021-01-16T17:19:23.266Z] info Redis connect
+[2021-01-16T17:19:30.459Z] info Cannot add users: check email.
+[2021-01-16T17:20:27.717Z] info Get all users
+[2021-01-16T17:22:48.947Z] info Invalid token: login first
+[2021-01-16T17:23:43.046Z] info Service running on port 9000
+[2021-01-16T17:23:43.135Z] info Connection to redis OKE
+[2021-01-16T17:23:43.139Z] info Redis connect
+[2021-01-16T17:23:52.504Z] info Users was deleted
+[2021-01-16T17:24:02.305Z] info Users was deleted
+[2021-01-16T17:24:07.603Z] info Users was deleted
+[2021-01-16T17:24:13.258Z] info Users was deleted
+[2021-01-16T17:24:18.204Z] info Users was deleted
+[2021-01-16T17:24:23.251Z] info Users was deleted
+[2021-01-16T17:24:27.629Z] info Users was deleted
+[2021-01-16T17:24:34.798Z] info Users was deleted
+[2021-01-16T17:24:45.245Z] info Get all users
+[2021-01-16T17:26:18.646Z] info Cannot update users: check data input
+[2021-01-16T17:27:50.620Z] info Users updated
+[2021-01-16T17:28:01.880Z] info Get all users
+[2021-01-16T17:29:06.980Z] info Service running on port 9000
+[2021-01-16T17:29:07.060Z] info Connection to redis OKE
+[2021-01-16T17:29:07.064Z] info Redis connect
+[2021-01-16T17:29:16.665Z] warn Failed get all users column Users.DESC does not exist
+[2021-01-16T17:29:16.666Z] warn Cannot get users column Users.DESC does not exist
+[2021-01-16T17:32:48.567Z] info Service running on port 9000
+[2021-01-16T17:32:48.641Z] info Connection to redis OKE
+[2021-01-16T17:32:48.644Z] info Redis connect
+[2021-01-16T17:33:01.785Z] info Get all users
+[2021-01-16T17:37:50.653Z] info Service running on port 9000
+[2021-01-16T17:37:50.730Z] info Connection to redis OKE
+[2021-01-16T17:37:50.735Z] info Redis connect
+[2021-01-16T17:39:21.814Z] info Get all users
+[2021-01-16T17:42:00.203Z] info Service running on port 9000
+[2021-01-16T17:42:00.303Z] info Connection to redis OKE
+[2021-01-16T17:42:00.306Z] info Redis connect
+[2021-01-16T17:42:23.088Z] warn Failed get all Categories Cannot read property 'length' of undefined
+[2021-01-16T17:42:23.090Z] warn Cannot get Categories Cannot read property 'length' of undefined
+[2021-01-16T17:46:29.332Z] info Service running on port 9000
+[2021-01-16T17:46:29.395Z] info Connection to redis OKE
+[2021-01-16T17:46:29.402Z] info Redis connect
+[2021-01-16T17:46:41.829Z] info Get all Categories
+[2021-01-16T17:56:50.689Z] info Get all Categories
+[2021-01-16T17:59:24.725Z] info Service running on port 9000
+[2021-01-16T17:59:24.809Z] info Connection to redis OKE
+[2021-01-16T17:59:24.832Z] info Redis connect
+[2021-01-16T17:59:37.078Z] info Get all Categories
+[2021-01-16T18:17:27.993Z] info Service running on port 9000
+[2021-01-16T18:17:28.061Z] info Connection to redis OKE
+[2021-01-16T18:17:28.068Z] info Redis connect
+[2021-01-16T18:17:35.485Z] info Get all Categories
+[2021-01-16T18:21:30.005Z] info Service running on port 9000
+[2021-01-16T18:21:30.077Z] info Connection to redis OKE
+[2021-01-16T18:21:30.082Z] info Redis connect
+[2021-01-16T18:21:38.662Z] warn Failed add Categories notNull Violation: Categories.name_category cannot be null
+[2021-01-16T18:24:34.169Z] info Service running on port 9000
+[2021-01-16T18:24:34.235Z] info Connection to redis OKE
+[2021-01-16T18:24:34.260Z] info Redis connect
+[2021-01-16T18:24:55.577Z] info Get all Categories
+[2021-01-16T18:25:45.985Z] info Service running on port 9000
+[2021-01-16T18:25:46.033Z] info Connection to redis OKE
+[2021-01-16T18:25:46.034Z] info Redis connect
+[2021-01-16T18:25:54.922Z] info Cannot update Categories: check data input
+[2021-01-16T18:26:46.694Z] info Service running on port 9000
+[2021-01-16T18:26:46.760Z] info Connection to redis OKE
+[2021-01-16T18:26:46.773Z] info Redis connect
+[2021-01-16T18:26:55.861Z] info Categories updated
+[2021-01-16T18:27:06.006Z] info Get all Categories
+[2021-01-16T18:30:14.140Z] info Service running on port 9000
+[2021-01-16T18:30:14.202Z] info Connection to redis OKE
+[2021-01-16T18:30:14.208Z] info Redis connect
+[2021-01-16T18:30:25.085Z] info Categories updated
+[2021-01-16T18:31:12.379Z] info Get all Categories
+[2021-01-16T18:32:21.706Z] info Service running on port 9000
+[2021-01-16T18:32:21.773Z] info Connection to redis OKE
+[2021-01-16T18:32:21.779Z] info Redis connect
+[2021-01-16T18:32:29.059Z] info Categories updated
+[2021-01-16T18:32:35.314Z] info Get all Categories
+[2021-01-16T18:45:33.454Z] info Service running on port 9000
+[2021-01-16T18:45:33.583Z] info Connection to redis OKE
+[2021-01-16T18:45:33.585Z] info Redis connect
+[2021-01-16T18:46:05.864Z] info Service running on port 9000
+[2021-01-16T18:46:05.931Z] info Connection to redis OKE
+[2021-01-16T18:46:05.938Z] info Redis connect
+[2021-01-16T18:46:12.552Z] warn Failed get data Categories id is not defined
+[2021-01-16T18:46:12.556Z] warn Cannot update Categories id is not defined
+[2021-01-16T18:49:23.124Z] info Service running on port 9000
+[2021-01-16T18:49:23.191Z] info Connection to redis OKE
+[2021-01-16T18:49:23.196Z] info Redis connect
+[2021-01-16T18:49:32.800Z] warn Failed get data Categories id is not defined
+[2021-01-16T18:49:32.801Z] warn Cannot update Categories id is not defined
+[2021-01-16T18:50:45.314Z] info Service running on port 9000
+[2021-01-16T18:50:45.389Z] info Connection to redis OKE
+[2021-01-16T18:50:45.392Z] info Redis connect
+[2021-01-16T18:50:52.895Z] warn Failed get data Categories id is not defined
+[2021-01-16T18:50:52.896Z] warn Cannot update Categories id is not defined
+[2021-01-16T18:51:41.190Z] info Get all Categories
+[2021-01-16T18:52:49.612Z] info Service running on port 9000
+[2021-01-16T18:52:49.701Z] info Connection to redis OKE
+[2021-01-16T18:52:49.716Z] info Redis connect
+[2021-01-16T18:52:56.507Z] info Categories updated
+[2021-01-16T18:53:15.794Z] info Categories updated
+[2021-01-16T18:53:20.135Z] info Get all Categories
+[2021-01-17T00:49:26.880Z] info Service running on port 9000
+[2021-01-17T00:49:27.202Z] info Connection to redis OKE
+[2021-01-17T00:49:27.234Z] info Redis connect
+[2021-01-17T00:55:29.101Z] info Get all Categories
+[2021-01-17T00:56:10.368Z] info Get all Categories
+[2021-01-17T00:56:29.973Z] info Get all Categories
+[2021-01-17T00:56:54.771Z] info Categories updated
+[2021-01-17T00:56:59.757Z] info Get all Categories
+[2021-01-17T00:57:10.452Z] info Get all Categories
+[2021-01-17T00:57:24.522Z] info Get all Categories
+[2021-01-17T01:05:20.311Z] info Service running on port 9000
+[2021-01-17T01:05:20.613Z] info Connection to redis OKE
+[2021-01-17T01:05:20.617Z] info Redis connect
+[2021-01-17T01:05:36.607Z] info Get all Categories
+[2021-01-17T01:05:52.099Z] warn Something wrong WHERE parameter "id" has invalid "undefined" value
+[2021-01-17T01:08:29.583Z] info Service running on port 9000
+[2021-01-17T01:08:29.663Z] info Connection to redis OKE
+[2021-01-17T01:08:29.671Z] info Redis connect
+[2021-01-17T01:08:39.190Z] info Get all Categories
+[2021-01-17T01:08:54.035Z] info Get all Categories
+[2021-01-17T01:09:25.521Z] info Categories updated
+[2021-01-17T01:09:32.601Z] info Get all Categories
+[2021-01-17T01:09:50.620Z] info Categories updated
+[2021-01-17T01:09:54.502Z] info Get all Categories
+[2021-01-17T01:10:19.177Z] info Categories was deleted
+[2021-01-17T01:10:26.835Z] info Categories was deleted
+[2021-01-17T01:10:30.114Z] info Get all Categories
+[2021-01-17T01:10:54.297Z] info Categories was deleted
+[2021-01-17T01:10:57.913Z] info Get all Categories
+[2021-01-17T01:11:46.888Z] info Service running on port 9000
+[2021-01-17T01:11:46.968Z] info Connection to redis OKE
+[2021-01-17T01:11:46.998Z] info Redis connect
+[2021-01-17T01:18:08.798Z] info Get all Categories
+[2021-01-17T01:45:37.666Z] info Service running on port 9000
+[2021-01-17T01:45:38.073Z] info Connection to redis OKE
+[2021-01-17T01:45:38.077Z] info Redis connect
+[2021-01-17T01:46:54.100Z] info Service running on port 9000
+[2021-01-17T01:46:54.158Z] info Connection to redis OKE
+[2021-01-17T01:46:54.171Z] info Redis connect
+[2021-01-17T01:49:59.431Z] info Service running on port 9000
+[2021-01-17T01:49:59.507Z] info Connection to redis OKE
+[2021-01-17T01:49:59.510Z] info Redis connect
+[2021-01-17T01:50:18.932Z] info Get all Histories
+[2021-01-17T01:51:20.155Z] info Get all Histories
+[2021-01-17T01:52:40.027Z] warn Cannot update Histories Cannot read property 'findAll' of undefined
+[2021-01-17T01:53:53.818Z] info Service running on port 9000
+[2021-01-17T01:53:53.881Z] info Connection to redis OKE
+[2021-01-17T01:53:53.885Z] info Redis connect
+[2021-01-17T01:54:18.583Z] info Histories updated
+[2021-01-17T01:54:30.583Z] info Histories updated
+[2021-01-17T01:54:37.195Z] info Get all Histories
+[2021-01-17T01:57:12.749Z] info Get all Histories
+[2021-01-17T01:57:38.232Z] info Histories was deleted
+[2021-01-17T01:57:51.465Z] info Get all Histories
+[2021-01-17T02:40:33.510Z] info Service running on port 9000
+[2021-01-17T02:40:33.584Z] info Connection to redis OKE
+[2021-01-17T02:40:33.590Z] info Redis connect
+[2021-01-17T02:42:02.948Z] info Get product from postgres
+[2021-01-17T02:44:28.870Z] info Search name product
+[2021-01-17T02:45:21.056Z] warn Failed order product column Products.price_product"DESC does not exist
+[2021-01-17T02:45:21.061Z] warn Cannot order product column Products.price_product"DESC does not exist
+[2021-01-17T02:45:55.788Z] info Order product
+[2021-01-17T02:52:06.112Z] info Product was deleted
+[2021-01-17T02:53:12.251Z] warn Delete product failed Cannot read property 'length' of undefined
+[2021-01-17T02:54:22.587Z] info Service running on port 9000
+[2021-01-17T02:54:22.678Z] info Connection to redis OKE
+[2021-01-17T02:54:22.692Z] info Redis connect
+[2021-01-17T02:54:32.569Z] info Product was deleted
+[2021-01-17T03:08:47.427Z] info Get product from postgres
+[2021-01-17T03:10:17.556Z] warn Upload image failed
+[2021-01-17T03:10:17.557Z] warn Cannot add product
+[2021-01-17T03:13:59.363Z] info Image was uploaded
+[2021-01-17T03:14:31.225Z] info Add product was successfull
+[2021-01-17T03:15:05.905Z] info Get product from postgres
+[2021-01-17T03:20:48.728Z] info Image was uploaded
+[2021-01-17T03:20:49.515Z] info Update product was successfull
+[2021-01-17T03:21:07.931Z] info Get product from postgres
+[2021-01-17T03:28:14.722Z] info Service running on port 9000
+[2021-01-17T03:28:15.023Z] info Connection to redis OKE
+[2021-01-17T03:28:15.025Z] info Redis connect
+[2021-01-17T03:28:29.184Z] warn Failed get product column Products.name_category does not exist
+[2021-01-17T03:28:29.186Z] warn Cannot get product column Products.name_category does not exist
+[2021-01-17T03:30:04.737Z] info Service running on port 9000
+[2021-01-17T03:30:04.759Z] info Connection to redis OKE
+[2021-01-17T03:30:04.772Z] info Redis connect
+[2021-01-17T03:30:28.650Z] info Get product from postgres
+[2021-01-17T03:33:57.021Z] info Image was uploaded
+[2021-01-17T03:34:10.003Z] info Add product was successfull
+[2021-01-17T03:37:20.516Z] info Image was uploaded
+[2021-01-17T03:37:20.876Z] info Add product was successfull
+[2021-01-17T03:37:30.818Z] info Get product from postgres
+[2021-01-17T03:38:12.308Z] info Search name product
+[2021-01-17T03:38:25.360Z] info Search name product
+[2021-01-17T03:39:34.905Z] info Order product
+[2021-01-17T03:40:37.040Z] info Order product
+[2021-01-17T03:40:49.478Z] info Order product
+[2021-01-17T03:41:18.907Z] warn Failed order product column Products.name_category does not exist
+[2021-01-17T03:41:18.909Z] warn Cannot order product column Products.name_category does not exist
+[2021-01-17T03:44:19.536Z] info Service running on port 9000
+[2021-01-17T03:44:19.650Z] info Connection to redis OKE
+[2021-01-17T03:44:19.651Z] info Redis connect
+[2021-01-17T03:44:33.909Z] warn Failed order product column Products.name_category does not exist
+[2021-01-17T03:44:33.918Z] warn Cannot order product column Products.name_category does not exist
+[2021-01-17T04:00:13.509Z] info Service running on port 9000
+[2021-01-17T04:00:13.814Z] info Connection to redis OKE
+[2021-01-17T04:00:13.815Z] info Redis connect
+[2021-01-17T04:00:29.890Z] warn Failed order product column Products.name_category does not exist
+[2021-01-17T04:00:29.891Z] warn Cannot order product column Products.name_category does not exist
+[2021-01-17T04:01:34.659Z] info Service running on port 9000
+[2021-01-17T04:01:34.726Z] info Connection to redis OKE
+[2021-01-17T04:01:34.731Z] info Redis connect
+[2021-01-17T04:01:43.623Z] warn Failed order product column Products.name_category does not exist
+[2021-01-17T04:01:43.624Z] warn Cannot order product column Products.name_category does not exist
+[2021-01-17T04:06:20.699Z] info Service running on port 9000
+[2021-01-17T04:06:20.770Z] info Connection to redis OKE
+[2021-01-17T04:06:20.783Z] info Redis connect
+[2021-01-17T04:06:28.375Z] warn Cannot order product Cannot read property 'Categories' of undefined
+[2021-01-17T04:08:33.044Z] info Service running on port 9000
+[2021-01-17T04:08:33.114Z] info Connection to redis OKE
+[2021-01-17T04:08:33.122Z] info Redis connect
+[2021-01-17T04:08:38.735Z] warn Cannot order product Cannot read property 'name_category' of undefined
+[2021-01-17T04:09:36.278Z] info Service running on port 9000
+[2021-01-17T04:09:36.347Z] info Connection to redis OKE
+[2021-01-17T04:09:36.350Z] info Redis connect
+[2021-01-17T04:09:40.302Z] warn Cannot order product Categories is not defined
+[2021-01-17T04:11:24.093Z] info Service running on port 9000
+[2021-01-17T04:11:24.173Z] info Connection to redis OKE
+[2021-01-17T04:11:24.210Z] info Redis connect
+[2021-01-17T04:11:42.538Z] info Order product
+[2021-01-17T04:12:58.204Z] warn Failed search product column Products.'name_product'"'DESC' does not exist
+[2021-01-17T04:12:58.210Z] warn Cannot search product column Products.'name_product'"'DESC' does not exist
+[2021-01-17T04:18:24.718Z] info Service running on port 9000
+[2021-01-17T04:18:24.838Z] info Connection to redis OKE
+[2021-01-17T04:18:24.839Z] info Redis connect
+[2021-01-17T04:18:42.457Z] info Search product
+[2021-01-17T04:26:36.431Z] info Service running on port 9000
+[2021-01-17T04:26:36.498Z] info Connection to redis OKE
+[2021-01-17T04:26:36.506Z] info Redis connect
+[2021-01-17T04:26:46.902Z] warn Failed search product column Products.name_category does not exist
+[2021-01-17T04:26:46.903Z] warn Cannot search product column Products.name_category does not exist
+[2021-01-17T04:28:49.716Z] info Service running on port 9000
+[2021-01-17T04:28:49.791Z] info Connection to redis OKE
+[2021-01-17T04:28:49.794Z] info Redis connect
+[2021-01-17T04:28:54.739Z] warn Failed search product operator does not exist: integer ~~ unknown
+[2021-01-17T04:28:54.741Z] warn Cannot search product operator does not exist: integer ~~ unknown
+[2021-01-17T04:30:36.714Z] info Service running on port 9000
+[2021-01-17T04:30:36.778Z] info Connection to redis OKE
+[2021-01-17T04:30:36.793Z] info Redis connect
+[2021-01-17T04:30:48.939Z] warn Failed search product operator does not exist: integer ~~ integer
+[2021-01-17T04:30:48.946Z] warn Cannot search product operator does not exist: integer ~~ integer
+[2021-01-17T04:31:59.157Z] info Service running on port 9000
+[2021-01-17T04:31:59.235Z] info Connection to redis OKE
+[2021-01-17T04:31:59.239Z] info Redis connect
+[2021-01-17T04:32:03.846Z] warn Failed search product operator does not exist: integer ~~ integer
+[2021-01-17T04:32:03.847Z] warn Cannot search product operator does not exist: integer ~~ integer
+[2021-01-17T04:32:28.052Z] info Search product
+[2021-01-17T04:33:19.386Z] info Service running on port 9000
+[2021-01-17T04:33:19.449Z] info Connection to redis OKE
+[2021-01-17T04:33:19.471Z] info Redis connect
+[2021-01-17T04:33:24.149Z] info Search product
+[2021-01-17T04:36:45.199Z] info Service running on port 9000
+[2021-01-17T04:36:45.285Z] info Connection to redis OKE
+[2021-01-17T04:36:45.300Z] info Redis connect
+[2021-01-17T04:36:54.033Z] info Search product
+[2021-01-17T04:37:03.036Z] info Search product
+[2021-01-17T04:37:15.905Z] info Search product
+[2021-01-17T04:37:56.489Z] info Service running on port 9000
+[2021-01-17T04:37:56.554Z] info Connection to redis OKE
+[2021-01-17T04:37:56.586Z] info Redis connect
+[2021-01-17T04:38:02.080Z] info Search product
+[2021-01-17T04:40:09.377Z] info Service running on port 9000
+[2021-01-17T04:40:09.441Z] info Connection to redis OKE
+[2021-01-17T04:40:09.457Z] info Redis connect
+[2021-01-17T04:40:14.262Z] info Search product
+[2021-01-17T04:40:46.597Z] info Service running on port 9000
+[2021-01-17T04:40:46.672Z] info Connection to redis OKE
+[2021-01-17T04:40:46.682Z] info Redis connect
+[2021-01-17T04:40:51.183Z] info Search product
+[2021-01-17T04:43:07.652Z] info Service running on port 9000
+[2021-01-17T04:43:07.716Z] info Connection to redis OKE
+[2021-01-17T04:43:07.738Z] info Redis connect
+[2021-01-17T04:43:12.419Z] warn Failed search product Invalid value { '$like': "'%Y%'" }
+[2021-01-17T04:43:12.421Z] warn Cannot search product Invalid value { '$like': "'%Y%'" }
+[2021-01-17T04:43:54.590Z] info Service running on port 9000
+[2021-01-17T04:43:54.645Z] info Connection to redis OKE
+[2021-01-17T04:43:54.647Z] info Redis connect
+[2021-01-17T04:43:59.005Z] warn Failed search product Invalid value { '$like': '%Y%' }
+[2021-01-17T04:43:59.009Z] warn Cannot search product Invalid value { '$like': '%Y%' }
+[2021-01-17T04:45:37.179Z] info Service running on port 9000
+[2021-01-17T04:45:37.236Z] info Connection to redis OKE
+[2021-01-17T04:45:37.242Z] info Redis connect
+[2021-01-17T04:45:42.197Z] info Search product
+[2021-01-17T04:46:46.908Z] info Service running on port 9000
+[2021-01-17T04:46:46.970Z] info Connection to redis OKE
+[2021-01-17T04:46:46.972Z] info Redis connect
+[2021-01-17T04:46:58.372Z] info Search product
+[2021-01-17T04:51:11.961Z] info Service running on port 9000
+[2021-01-17T04:51:12.228Z] info Connection to redis OKE
+[2021-01-17T04:51:12.232Z] info Redis connect
+[2021-01-17T04:51:20.567Z] info Search product
+[2021-01-17T04:52:00.941Z] info Search product
+[2021-01-17T04:52:15.402Z] info Search product
+[2021-01-17T04:52:58.825Z] info Service running on port 9000
+[2021-01-17T04:52:58.894Z] info Connection to redis OKE
+[2021-01-17T04:52:58.906Z] info Redis connect
+[2021-01-17T04:53:04.898Z] info Search product
+[2021-01-17T04:53:34.158Z] info Search product
+[2021-01-17T04:54:07.489Z] info Service running on port 9000
+[2021-01-17T04:54:07.569Z] info Connection to redis OKE
+[2021-01-17T04:54:07.572Z] info Redis connect
+[2021-01-17T04:54:16.177Z] info Search product
+[2021-01-17T04:54:38.283Z] info Search product
+[2021-01-17T04:55:28.330Z] info Search product
+[2021-01-17T04:55:55.959Z] info Search product
+[2021-01-17T04:56:05.723Z] info Search product
+[2021-01-17T05:44:49.354Z] info Service running on port 9000
+[2021-01-17T05:44:49.648Z] info Connection to redis OKE
+[2021-01-17T05:44:49.651Z] info Redis connect
+[2021-01-17T05:45:09.988Z] warn Failed search product operator does not exist: integer ~~ integer
+[2021-01-17T05:45:09.990Z] warn Cannot search product operator does not exist: integer ~~ integer
+[2021-01-17T06:06:27.954Z] info Service running on port 9000
+[2021-01-17T06:06:28.080Z] info Connection to redis OKE
+[2021-01-17T06:06:28.081Z] info Redis connect
+[2021-01-17T06:07:33.538Z] warn Failed search product operator does not exist: integer ~~ unknown
+[2021-01-17T06:07:33.539Z] warn Cannot search product operator does not exist: integer ~~ unknown
+[2021-01-17T06:15:51.542Z] info Service running on port 9000
+[2021-01-17T06:15:51.619Z] info Connection to redis OKE
+[2021-01-17T06:15:51.638Z] info Redis connect
+[2021-01-17T06:16:01.528Z] info Search product
+[2021-01-17T06:17:31.268Z] info Service running on port 9000
+[2021-01-17T06:17:31.355Z] info Connection to redis OKE
+[2021-01-17T06:17:31.361Z] info Redis connect
+[2021-01-17T06:17:35.996Z] info Search product
+[2021-01-17T06:17:57.708Z] info Search product
+[2021-01-17T06:19:11.533Z] info Search product
+[2021-01-17T06:21:09.220Z] info Service running on port 9000
+[2021-01-17T06:21:09.291Z] info Connection to redis OKE
+[2021-01-17T06:21:09.298Z] info Redis connect
+[2021-01-17T06:21:24.393Z] info Search product
+[2021-01-17T06:29:13.455Z] info Service running on port 9000
+[2021-01-17T06:29:13.527Z] info Connection to redis OKE
+[2021-01-17T06:29:13.535Z] info Redis connect
+[2021-01-17T06:29:18.997Z] info Search product
+[2021-01-17T06:33:06.055Z] info Service running on port 9000
+[2021-01-17T06:33:06.124Z] info Connection to redis OKE
+[2021-01-17T06:33:06.139Z] info Redis connect
+[2021-01-17T06:33:14.487Z] warn Failed search product invalid input syntax for type bigint: "[object Object]"
+[2021-01-17T06:33:14.489Z] warn Cannot search product invalid input syntax for type bigint: "[object Object]"
+[2021-01-17T06:34:05.120Z] info Service running on port 9000
+[2021-01-17T06:34:05.217Z] info Connection to redis OKE
+[2021-01-17T06:34:05.224Z] info Redis connect
+[2021-01-17T06:34:10.862Z] info Search product
+[2021-01-17T06:35:32.617Z] info Service running on port 9000
+[2021-01-17T06:35:32.678Z] info Connection to redis OKE
+[2021-01-17T06:35:32.680Z] info Redis connect
+[2021-01-17T06:35:38.703Z] info Search product
+[2021-01-17T06:36:10.136Z] info Search product
+[2021-01-17T06:37:06.667Z] info Service running on port 9000
+[2021-01-17T06:37:06.735Z] info Connection to redis OKE
+[2021-01-17T06:37:06.738Z] info Redis connect
+[2021-01-17T06:37:12.193Z] info Search product
+[2021-01-17T06:37:34.822Z] info Search product
+[2021-01-17T06:41:29.251Z] info Service running on port 9000
+[2021-01-17T06:41:29.339Z] info Connection to redis OKE
+[2021-01-17T06:41:29.342Z] info Redis connect
+[2021-01-17T06:41:38.444Z] info Search product
+[2021-01-17T06:43:29.792Z] info Service running on port 9000
+[2021-01-17T06:43:29.866Z] info Connection to redis OKE
+[2021-01-17T06:43:29.871Z] info Redis connect
+[2021-01-17T06:43:34.972Z] info Search product
+[2021-01-17T06:43:50.540Z] info Search product
+[2021-01-17T06:44:02.996Z] info Search product
+[2021-01-17T06:44:15.390Z] info Search product
+[2021-01-17T06:44:25.060Z] info Search product
+[2021-01-17T06:44:45.455Z] info Search product
+[2021-01-17T06:44:59.135Z] info Search product
+[2021-01-17T06:45:59.685Z] info Product was deleted
+[2021-01-17T07:02:07.438Z] info Service running on port 9000
+[2021-01-17T07:02:08.370Z] info Connection to redis OKE
+[2021-01-17T07:02:08.372Z] info Redis connect
+[2021-01-17T07:02:18.334Z] info Invalid token: login first
+[2021-01-17T07:02:47.786Z] info Login failed: check email.
+[2021-01-17T07:02:56.022Z] info Token created Token created
+[2021-01-17T07:02:56.023Z] info Login was successfull Token created
+[2021-01-17T07:03:21.929Z] info Get all users
+[2021-01-17T07:07:31.660Z] info Service running on port 9000
+[2021-01-17T07:07:31.784Z] info Connection to redis OKE
+[2021-01-17T07:07:31.787Z] info Redis connect
+[2021-01-17T07:08:02.738Z] info Invalid token: login first
+[2021-01-17T07:08:39.867Z] info Get product from postgres

@@ -1,0 +1,33 @@
+GET http://localhost:9000/history/commit
+
+###
+GET http://localhost:9000/history/drop
+
+###
+GET http://localhost:9000/history
+
+###
+POST http://localhost:9000/history
+content-Type: application/json
+
+{
+    "cashier": "",
+    "date": "17 January 2021",
+    "orders": "Capuccino",
+    "amount": 5000
+}
+
+###
+PUT http://localhost:9000/history
+Content-Type: application/json
+
+{
+    "id": 1,
+    "cashier": "#atiacan",
+    "date": "17 January 2021",
+    "orders": "Red Velvet Latte",
+    "amount": 30000
+}
+
+###
+DELETE http://localhost:9000/history/del?id=2

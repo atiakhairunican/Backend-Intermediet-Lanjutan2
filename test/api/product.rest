@@ -1,0 +1,24 @@
+GET http://localhost:9000/product/commit
+
+###
+GET http://localhost:9000/product/drop
+
+###
+GET http://localhost:9000/product
+
+###
+GET http://localhost:9000/product/name
+Content-Type: application/json
+
+{
+    "name": "Red"
+}
+
+###
+GET http://localhost:9000/product/searchAll/orderedAll
+
+###
+GET http://localhost:9000/product/search/ordered?orderBy=price_product&order=DESC
+
+###
+DELETE http://localhost:9000/product/del?name=Capuccino

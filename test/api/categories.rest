@@ -1,0 +1,27 @@
+GET http://localhost:9000/categories/commit
+
+###
+GET http://localhost:9000/categories/drop
+
+###
+GET http://localhost:9000/categories
+
+###
+POST http://localhost:9000/categories
+content-Type: application/json
+
+{
+    "name": "Disert"
+}
+
+###
+PUT http://localhost:9000/categories
+Content-Type: application/json
+
+{
+    "id": 3,
+    "name": "A piece of Cake"
+}
+
+###
+DELETE http://localhost:9000/categories/del?id=3

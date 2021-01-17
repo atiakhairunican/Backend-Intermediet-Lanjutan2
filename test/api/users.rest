@@ -1,0 +1,33 @@
+GET http://localhost:9000/users/commit
+
+###
+GET http://localhost:9000/users/drop
+
+###
+GET http://localhost:9000/users
+
+###
+POST http://localhost:9000/users
+Content-Type: application/json
+
+{
+    "name": "Atia Khairuni Can",
+    "email": "atiakhairunican@gmail.com",
+    "password": "02011997",
+    "role": "admin"
+}
+
+###
+PUT http://localhost:9000/users
+Content-Type: application/json
+
+{
+    "id": 1,
+    "name": "Atillah Fathan",
+    "email": "atia_inuyasha@gmail.com",
+    "password": "12051999",
+    "role": "customer"
+}
+
+###
+DELETE http://localhost:9000/users/del?id=11

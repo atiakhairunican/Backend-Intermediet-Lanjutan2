@@ -5,6 +5,24 @@ const model = require("../Models/users")
 const loggers = require("../Configs/wins")
 
 class Users {
+    async commit(req, res) {
+        try {
+            const result = await model.commit()
+            return respon(res, 200, result)
+        } catch (err) {
+            return respon(res, 500, err)
+        }
+    }
+
+    async drop(req, res) {
+        try {
+            const result = await model.drop()
+            return respon(res, 200, result)
+        } catch (err) {
+            return respon(res, 500, err)
+        }
+    }
+
     async add(req, res) {
         try {
             const check = await model.getByEmail(req.body.email)
