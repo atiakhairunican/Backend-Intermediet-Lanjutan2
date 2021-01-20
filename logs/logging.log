@@ -2126,3 +2126,28 @@
 [2021-01-17T07:07:31.787Z] info Redis connect
 [2021-01-17T07:08:02.738Z] info Invalid token: login first
 [2021-01-17T07:08:39.867Z] info Get product from postgres
+[2021-01-19T14:15:44.548Z] info Service running on port 9000
+[2021-01-19T14:15:46.426Z] info Connection to redis OKE
+[2021-01-19T14:15:46.429Z] info Redis connect
+[2021-01-19T14:30:54.323Z] info Invalid token: login first
+[2021-01-19T14:31:50.783Z] info Token created Token created
+[2021-01-19T14:31:50.784Z] info Login was successfull Token created
+[2021-01-19T14:32:00.707Z] info Get product from postgres
+[2021-01-19T14:32:28.184Z] info Get data from redis
+[2021-01-19T14:32:35.334Z] info Get all Histories
+[2021-01-19T14:33:00.688Z] info Get product from postgres
+[2021-01-19T14:33:04.032Z] info Get all Histories
+[2021-01-19T14:36:07.621Z] info Get product from postgres
+[2021-01-19T14:36:40.284Z] info Get data from redis
+[2021-01-19T14:36:45.225Z] info Get all Histories
+[2021-01-19T14:37:12.332Z] info Get product from postgres
+[2021-01-19T14:39:24.257Z] info Image was uploaded
+[2021-01-19T14:39:24.931Z] info Add product was successfull
+[2021-01-19T14:39:31.186Z] info Get product from postgres
+[2021-01-19T14:39:51.808Z] info Order product
+[2021-01-19T14:40:08.899Z] info Order product
+[2021-01-19T14:40:12.480Z] info Order product
+[2021-01-19T14:42:49.089Z] info Get product from postgres
+[2021-01-19T14:42:51.959Z] info Get all Histories
+[2021-01-19T14:43:19.205Z] info Get data from redis
+[2021-01-19T14:43:32.645Z] info Get data from redis
