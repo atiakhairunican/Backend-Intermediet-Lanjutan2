@@ -1,4 +1,4 @@
-def dockerhub = "atiakhairunican/jenkinsback"
+def dockerhub = "atiakhairunican/backend"
 def image_name = "${dockerhub}:${BRANCH_NAME}"
 def builder
 
