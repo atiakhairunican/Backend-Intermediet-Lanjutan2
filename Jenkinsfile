@@ -58,8 +58,8 @@ pipeline {
                 script {
                     sshPublisher {
                         publishers: [
-                            sshPublisherDesc {
-                                configName: 'devserver',
+                            sshPublisherDesc(
+                                configName: "devserver",
                                 verbose: false,
                                 transfers: [
                                     sshTransfer {
@@ -67,7 +67,7 @@ pipeline {
                                         execTimeout: 1500000
                                     }
                                 ]
-                            }
+                            )
                         ]
                     }
                 }
