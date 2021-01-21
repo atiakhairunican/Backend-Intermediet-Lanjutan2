@@ -6,6 +6,7 @@
 - PostgreSQL
 - API
 - Relational database
+- Sequelize
 
 ### Applications
 - Get all data in the tables
