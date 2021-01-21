@@ -1,2 +1,0 @@
-::1 - - [18/Dec/2020:12:11:38 +0000] "GET /product HTTP/1.1" 200 2678 "-" "PostmanRuntime/7.26.8"
-::1 - - [18/Dec/2020:12:19:49 +0000] "GET /product HTTP/1.1" 401 144 "-" "PostmanRuntime/7.26.8"
