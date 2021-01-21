@@ -1,7 +1,9 @@
 node_modules
 .env
 .eslintrc.json
-public
+.dockerignore
+test
 example
+access.log
 logs
 build
