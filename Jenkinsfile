@@ -7,7 +7,7 @@ pipeline {
 
     parameters {
         choice(
-            defaultValue: 'main'
+            defaultValue: 'main',
             choices: ['master', 'main'],
             description: '',
             name: 'REQUESTED_ACTION'
