@@ -55,20 +55,20 @@ pipeline {
             }
             steps {
                 script {
-                    sshPublisher {
+                    sshPublisher(
                         publishers: [
                             sshPublisherDesc(
                                 configName: "devserver",
                                 verbose: false,
                                 transfers: [
-                                    sshTransfer (
+                                    sshTransfer(
                                         execCommand: "docker pull ${image_name}: docker kill jenkinsback : docker run -d --rm --name jenkinsback -p 9090:9000 ${image_name}",
                                         execTimeout: 1500000
                                     )
                                 ]
                             )
                         ]
-                    }
+                    )
                 }
             }
         }
