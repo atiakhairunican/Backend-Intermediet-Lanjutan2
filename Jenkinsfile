@@ -24,7 +24,7 @@ pipeline {
         stage("Build docker") {
             steps {
                 script {
-                    builder = docker.build("${dockerhub}:${BRANCH_NAME}")
+                    builder = docker.build("${image_name}")
                 }
             }
         }
@@ -62,7 +62,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
+                                        execCommand: "docker pull ${image_name}; docker kill jenkinsback; docker run --rm -d  --name jenkinsback -p 9090:9000 ${image_name}",
                                         execTimeout: 1500000
                                     )
                                 ]
@@ -88,7 +88,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
+                                        execCommand: "docker pull ${image_name}; docker kill jenkinsback; docker run --rm -d  --name jenkinsback -p 9090:9000 ${image_name}",
                                         execTimeout: 1500000
                                     )
                                 ]
