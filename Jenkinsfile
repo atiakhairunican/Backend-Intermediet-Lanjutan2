@@ -1,7 +1,5 @@
 def dockerhub = "atiakhairunican/jenkinsback"
 def image_name = "${dockerhub}:${BRANCH_NAME}"
-def remote_dir_path_dev = "//home//develop//app"
-def remote_dir_path_prod = "//home//production//production"
 def builder
 
 pipeline {
@@ -64,8 +62,7 @@ pipeline {
                                 verbose: false,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}: docker-compose down: docker-compose up -d",
-                                        remoteDirectory: "${remote_dir_path_prod}",
+                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
                                         execTimeout: 1500000
                                     )
                                 ]
@@ -91,8 +88,7 @@ pipeline {
                                 verbose: false,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}: docker-compose down: docker-compose up -d",
-                                        remoteDirectory: "${remote_dir_path_dev}",
+                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
                                         execTimeout: 1500000
                                     )
                                 ]

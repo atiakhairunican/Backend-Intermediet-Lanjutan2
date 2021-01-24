@@ -28,13 +28,13 @@ services:
             - DBNAME=sequelize
             - DBPASSWORD=A020197kc
             - DBPORT=5432
-            - DBHOST=localhost
+            - DBHOST=postgres
             - DBUSER=postgres
             - JWT_KEYS = atiaKC
             - CLOUD_NAME = devopsatia
             - CLOUD_API_KEY = 343976629857324
             - CLOUD_API_SECRET = v-C70umdEJYOcwl8kdpkrfT-tq4
-            - REDIS_HOST = localhost
+            - REDIS_HOST = redis
             - REDIS_PORT = 6379
         networks:
             - dockernet
