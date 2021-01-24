@@ -64,7 +64,7 @@ pipeline {
                                 verbose: false,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
+                                        execCommand: "docker pull ${image_name}: docker-compose down: docker-compose up -d",
                                         remoteDirectory: "${remote_dir_path_prod}",
                                         execTimeout: 1500000
                                     )
@@ -91,7 +91,7 @@ pipeline {
                                 verbose: false,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
+                                        execCommand: "docker pull ${image_name}: docker-compose down: docker-compose up -d",
                                         remoteDirectory: "${remote_dir_path_dev}",
                                         execTimeout: 1500000
                                     )
