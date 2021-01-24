@@ -62,7 +62,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}",
+                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
                                         execTimeout: 1500000
                                     )
                                 ]
@@ -70,8 +70,6 @@ pipeline {
                         ]
                     )
                 }
-                sh "docker-compose down"
-                sh "docker-compose up -d"
             }
         }
 
@@ -90,7 +88,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}",
+                                        execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
                                         execTimeout: 1500000
                                     )
                                 ]
@@ -98,8 +96,6 @@ pipeline {
                         ]
                     )
                 }
-                sh "docker-compose down"
-                sh "docker-compose up -d"
             }
         }
     }
