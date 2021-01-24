@@ -85,7 +85,7 @@ pipeline {
                         publishers: [
                             sshPublisherDesc(
                                 configName: "devserver",
-                                verbose: false,
+                                verbose: true,
                                 transfers: [
                                     sshTransfer(
                                         execCommand: "docker pull ${image_name}; docker-compose down; docker-compose up -d",
