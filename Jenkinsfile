@@ -62,7 +62,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}; docker kill jenkinsback; docker run --rm -d  --name jenkinsback -p 9090:9000 ${image_name}",
+                                        execCommand: "docker rmi ${image_name}; docker pull ${image_name}; docker kill jenkinspostgres; docker kill jenkinsredis; docker kill jenkinsback; docker run --rm -d --name jenkinspostgres -p 5151:5432 postgres:latest; docker run --rm -d --name jenkinsredis -p 6161:6379 redis:latest; docker run --rm -d --name jenkinsback -p 9090:9000 ${image_name}",
                                         execTimeout: 1500000
                                     )
                                 ]
@@ -88,7 +88,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name}; docker kill jenkinsback; docker run --rm -d  --name jenkinsback -p 9090:9000 ${image_name}",
+                                        execCommand: "docker rmi ${image_name}; docker pull ${image_name}; docker kill jenkinspostgres; docker kill jenkinsredis; docker kill jenkinsback; docker run --rm -d --name jenkinspostgres -p 5151:5432 postgres:latest; docker run --rm -d --name jenkinsredis -p 6161:6379 redis:latest; docker run --rm -d --name jenkinsback -p 9090:9000 ${image_name}",
                                         execTimeout: 1500000
                                     )
                                 ]
