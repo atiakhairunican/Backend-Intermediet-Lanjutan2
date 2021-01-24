@@ -1,7 +1,7 @@
 def dockerhub = "atiakhairunican/jenkinsback"
 def image_name = "${dockerhub}:${BRANCH_NAME}"
-def remote_dir_path_dev = "/home/develop/app"
-def remote_dir_path_prod = "/home/production/production"
+def remote_dir_path_dev = "//home//develop//app"
+def remote_dir_path_prod = "//home//production//production"
 def builder
 
 pipeline {
