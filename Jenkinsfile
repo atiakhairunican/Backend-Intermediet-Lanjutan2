@@ -64,7 +64,7 @@ pipeline {
                                 verbose: false,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name} : docker kill jenkinsback:  docker run -d --rm --name jenkinsback -p 9090:9000 ${image_name}",
+                                        execCommand: "docker pull ${image_name}; docker kill jenkinsback;  docker run -d --rm --name jenkinsback -p 9090:9000 ${image_name}",
                                         remoteDirectory: "${remote_dir_path_prod}",
                                         execTimeout: 1500000
                                     )
@@ -91,7 +91,7 @@ pipeline {
                                 verbose: false,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker pull ${image_name} : docker kill postgres:latest : docker run -d --rm --name jenkinsback -p 9090:9000 ${image_name}",
+                                        execCommand: "docker pull ${image_name}; docker kill postgres:latest; docker run -d --rm --name jenkinsback -p 9090:9000 ${image_name}",
                                         remoteDirectory: "${remote_dir_path_dev}",
                                         execTimeout: 1500000
                                     )
