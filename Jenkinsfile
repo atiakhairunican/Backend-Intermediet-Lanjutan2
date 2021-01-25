@@ -66,7 +66,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker rmi ${image_name}; docker pull ${image_name}; docker-compose down; docker-compose up -d",
+                                        execCommand: "docker rmi ${image_name}; docker pull ${image_name}; cd /home/production/backend; docker-compose down; docker-compose up -d",
                                         execTimeout: 1500000
                                     )
                                 ]
@@ -92,7 +92,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "docker rmi ${image_name}; docker pull ${image_name}; cd /home/production/production; docker-compose down; docker-compose up -d",
+                                        execCommand: "docker rmi ${image_name}; docker pull ${image_name}; cd /home/develop/backend; docker-compose down; docker-compose up -d",
                                         execTimeout: 1500000
                                     )
                                 ]
