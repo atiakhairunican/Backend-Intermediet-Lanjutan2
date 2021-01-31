@@ -102,7 +102,7 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "kubectl delete deployment.apps/backend; kubectl delete service/backend; kubectl apply -f backend.yaml",
+                                        execCommand: "cd /home/kubernetes/kubernetes; sudo su; kubectl delete deployment.apps/backend; kubectl delete service/backend; kubectl apply -f backend.yaml",
                                         execTimeout: 1500000
                                     )
                                 ]
