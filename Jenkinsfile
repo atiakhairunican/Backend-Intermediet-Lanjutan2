@@ -92,7 +92,17 @@ pipeline {
                                 verbose: true,
                                 transfers: [
                                     sshTransfer(
-                                        execCommand: "cd /home/develop/backend; docker-compose down; docker rmi ${image_name}; docker pull ${image_name}; docker-compose up -d",
+                                        execCommand: "cd /home/develop/kubernetes; docker-compose down; docker-compose up -d",
+                                        execTimeout: 1500000
+                                    )
+                                ]
+                            ),
+                            sshPublisherDesc(
+                                configName: "kubeserver",
+                                verbose: true,
+                                transfers: [
+                                    sshTransfer(
+                                        execCommand: "kubectl delete deployment.apps/backend; kubectl delete service/backend; kubectl apply -f backend.yaml",
                                         execTimeout: 1500000
                                     )
                                 ]
